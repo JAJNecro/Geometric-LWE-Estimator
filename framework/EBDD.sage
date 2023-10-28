@@ -643,6 +643,7 @@ class EBDD(DBDD_generic):
         :solution: a vector
         """
 
+        print(solution)
         if self.u is not None:
             if self.circulant:
                 return (sorted(self.u.list()) == sorted(solution.list())) or (sorted(self.u.list()) == sorted((- solution).list())) 
