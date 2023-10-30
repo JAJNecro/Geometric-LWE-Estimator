@@ -1,0 +1,84 @@
+[-3  0  8 -3  5 -6  4  1 -2  3 -6  2 -8 -2 -1 -3  7 -3  2 -1 -1 -4 -1  1 -1  0 -3 -4 -5  3  0  2  3  0 -4  9  2 -1 -4 -2 -5  1 -2  7 -6 -2 -4  1  0 -5  3 -1  7  4 -1  3  0  6 -1  4  7 -2  8 -7  4  4 -4 -4 -3  1]
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00783918, β=138.02 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00801918, β=131.86 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00824229, β=126.01 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00843433, β=120.43 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00864807, β=115.09 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00885475, β=110.02 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00905606, β=105.16 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00924832, β=100.55 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00947087, β=96.08 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00965343, β=91.80 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.00986303, β=87.71 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01006672, β=83.77 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01030160, β=80.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01049313, β=76.36 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01067562, β=72.86 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01089513, β=69.46 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01110660, β=66.20 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01131272, β=63.02 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01146659, β=59.88 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01166076, β=56.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01184789, β=53.81 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01202504, β=50.84 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01219501, β=47.86 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01236282, β=44.87 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01253067, β=41.89 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01270266, β=38.86 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01288184, β=35.78 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01307039, β=32.60 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01327824, β=29.19 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01345338, β=25.06 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01378240, β=22.65 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01416015, β=20.16 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01459787, β=16.91 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01512499, β=13.92 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01568691, β=11.61 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01632005, β=9.43 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01687925, β=8.10 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01775317, β=6.20 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01888467, β=4.46 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.01983564, β=3.58 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02219038, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02254333, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02289620, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02325091, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02360364, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02395752, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02431057, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02466428, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02501789, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02537154, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02572582, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02608069, β=2.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=140, δ=1.02643587, β=2.00 [0m
+96.14485282450642
+[4;37m       Running the Attack      [0m
+[0m Running BKZ-2 [0m [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[ 42 -52  20  -3  -3   8  17  10   4   3  -1 -25 -21 -18 -10 -44   4  -6   9 -13  -5 -32 -28 -19 -10 -10  -8  13   9 -47 -31  13   4   2   7  29  39  -3  31   0   9 -11 -34  11 -12  -2  34   0  -5 -10  12 -20   5   3  15 -23   8  32  16 -31   8  16 -23  15 -16  -4 -20  36 -22 -15  30  21  11 -17   1 -17 -19 -15  26  26  -1  -2 -23  29 -11  22 -24  -1 -20   3   6   5  -6  -8 -11  -8  -5   6   5   4   0  -1  -4   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0m Running BKZ-3 [0m [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[ 42 -52  20  -3  -3   8  17  10   4   3  -1 -25 -21 -18 -10 -44   4  -6   9 -13  -5 -32 -28 -19 -10 -10  -8  13   9 -47 -31  13   4   2   7  29  39  -3  31   0   9 -11 -34  11 -12  -2  34   0  -5 -10  12 -20   5   3  15 -23   8  32  16 -31   8  16 -23  15 -16  -4 -20  36 -22 -15  30  21  11 -17   1 -17 -19 -15  26  26  -1  -2 -23  29 -11  22 -24  -1 -20   3   6   5  -6  -8 -11  -8  -5   6   5   4   0  -1  -4   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0m Running BKZ-4 [0m [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[ 42 -52  20  -3  -3   8  17  10   4   3  -1 -25 -21 -18 -10 -44   4  -6   9 -13  -5 -32 -28 -19 -10 -10  -8  13   9 -47 -31  13   4   2   7  29  39  -3  31   0   9 -11 -34  11 -12  -2  34   0  -5 -10  12 -20   5   3  15 -23   8  32  16 -31   8  16 -23  15 -16  -4 -20  36 -22 -15  30  21  11 -17   1 -17 -19 -15  26  26  -1  -2 -23  29 -11  22 -24  -1 -20   3   6   5  -6  -8 -11  -8  -5   6   5   4   0  -1  -4   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0m Running BKZ-5 [0m [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[ 42 -52  20  -3  -3   8  17  10   4   3  -1 -25 -21 -18 -10 -44   4  -6   9 -13  -5 -32 -28 -19 -10 -10  -8  13   9 -47 -31  13   4   2   7  29  39  -3  31   0   9 -11 -34  11 -12  -2  34   0  -5 -10  12 -20   5   3  15 -23   8  32  16 -31   8  16 -23  15 -16  -4 -20  36 -22 -15  30  21  11 -17   1 -17 -19 -15  26  26  -1  -2 -23  29 -11  22 -24  -1 -20   3   6   5  -6  -8 -11  -8  -5   6   5   4   0  -1  -4   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0]
