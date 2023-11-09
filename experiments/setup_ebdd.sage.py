@@ -20,7 +20,7 @@ for i in range(_sage_const_0 , n):
     sigma_c.append(((sigma / q) ** _sage_const_2 ) + (sigma**_sage_const_2  * n -_sage_const_1 )/_sage_const_12 )
 Sigma = block_matrix([[diagonal_matrix(sigma_c), zero_matrix(n)],
                       [zero_matrix(n),(sigma ** _sage_const_2 ) * identity_matrix(n)]])
-#Sigma = Sigma * d #scale dimension (may have to remove)
+Sigma = Sigma * d #scale dimension (may have to remove)
 our_ebdd = EBDD(identity_matrix(d), Sigma, mu, None)
 D_s = build_Gaussian_law(sigma, _sage_const_50 )
 D_e = D_s
@@ -36,24 +36,27 @@ c = []
 #integrating hints
 print(s)
 for i in range(n):
-    vi = concatenate([_sage_const_0 ]*i, q)
+    vi = concatenate([_sage_const_0 ]*i, q) #might need -q instead(?)
     vi = concatenate(vi, [_sage_const_0 ] * (n-i-_sage_const_1 ))
     vi = concatenate(vi, A[i])
     bi = b[_sage_const_0 ][i]
     ei = e_vec[_sage_const_0 ][i]
 
     # setting up ci
-    ci = (s[_sage_const_0 ] * A[i] + ei-bi)/q
+    ci1 = matrix(s[_sage_const_0 ]) * matrix(A[i]).T
+    ci = -_sage_const_1 *(ci1[_sage_const_0 ,_sage_const_0 ] + ei-bi)/q
     c.append(ci)
     _ = our_ebdd.integrate_approx_hint(matrix(vi), int(bi), sigma**_sage_const_2 )
 
 #checking ellipsoid norm for all c||s
 u = concatenate(c, s)
+our_ebdd.u = u
 norm = scal((u - mu) * Sigma.inverse() * (u - mu).T)
-print(norm)
+print("Solution: ", u)
+print("Norm: ", norm)
 
 beta, delta = our_ebdd.attack()
-print(f"beta: {beta}\n{delta=}")
+#print(f"beta: {beta}\n{delta=}")
 
 # LWE embedded into EBDD instance  (using Kannan's embedding) (no hints)
 #lwe_instance = LWE(m, q, n, D_e, D_s)

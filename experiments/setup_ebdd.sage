@@ -30,7 +30,7 @@ c = []
 #integrating hints
 print(s)
 for i in range(n):
-    vi = concatenate([0]*i, q)
+    vi = concatenate([0]*i, q) #might need -q instead(?)
     vi = concatenate(vi, [0] * (n-i-1))
     vi = concatenate(vi, A[i])
     bi = b[0][i]
