@@ -52,8 +52,3 @@ print("Norm: ", norm)
 beta, delta = our_ebdd.attack()
 #print(f"beta: {beta}\n{delta=}")
 
-# LWE embedded into EBDD instance  (using Kannan's embedding) (no hints)
-#lwe_instance = LWE(m, q, n, D_e, D_s)
-#ebdd_with_lwe = lwe_instance.embed_into_EBDD()
-#beta, delta = ebdd_with_lwe.attack() #experimentally get BKZ51 with beta: 51
-#print(f"beta: {beta}\n{delta=}")
