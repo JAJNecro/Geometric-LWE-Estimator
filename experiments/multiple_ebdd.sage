@@ -1,15 +1,18 @@
 load('../framework/LWE.sage')
 load('../framework/utils.sage')
+import pandas as pd
+import time
+
 
 predicted_betas = []
 calculated_betas = []
-average_calcbeta = 0
-average_predbeta = 0
 norms = []
 solutions = []
+times = []
 
 num_experiments = 200
 for x in range(num_experiments):
+    start = time.time()
     print("========================================== Experiment: " + str(x) + "=========================================")
     n = 70
     m = n
@@ -56,8 +59,15 @@ for x in range(num_experiments):
     u = concatenate(c, s)
     our_ebdd.u = u
     norm = scal((u - mu) * Sigma.inverse() * (u - mu).T)
-    print("Solution: ", u)
-    print("Norm: ", norm)
+    norms.append(norm)
+    predicted_betas.append(our_ebdd.beta)
 
     beta, delta = our_ebdd.attack()
-    print(f"beta: {beta}\n")
+    calculated_betas.append(beta)
+    end = time.time()
+    times.append(end-start)
+
+
+d = {"Predicted Beta": predicted_betas, "Calculated Beta": calculated_betas, "Norms": norms, "Times": times}
+df = pd.DataFrame(data=d)
+df.to_csv('200ebdd.csv', index = True)
