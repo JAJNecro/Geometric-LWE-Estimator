@@ -60,6 +60,7 @@ for x in range(num_experiments):
     our_ebdd.u = u
     norm = scal((u - mu) * Sigma.inverse() * (u - mu).T)
     norms.append(norm)
+    our_ebdd.estimate_attack()
     predicted_betas.append(our_ebdd.beta)
 
     beta, delta = our_ebdd.attack()

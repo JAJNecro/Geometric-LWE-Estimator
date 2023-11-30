@@ -9,6 +9,7 @@ times = []
 predicted_betas = []
 calculated_betas = []
 solutions = []
+norms = []
 
 num_experiments = 200
 for x in range(num_experiments):
@@ -29,12 +30,15 @@ for x in range(num_experiments):
     ebdd_with_lwe.estimate_attack()
     predicted_betas.append(ebdd_with_lwe.beta)
     solutions.append(ebdd_with_lwe.u)
+    u = ebdd_with_lwe.u
+    norm = scal(u * u.T)/(n+m)
+    norms.append(norm) 
 
     beta, delta = ebdd_with_lwe.attack() 
     calculated_betas.append(beta)
     end = time.time()
     times.append(end-start)
 
-d = {"Predicted Beta": predicted_betas, "Calculated Beta": calculated_betas, "Times": times}
+d = {"Predicted Beta": predicted_betas, "Calculated Beta": calculated_betas, "Norms": norms, "Times": times}
 df = pd.DataFrame(data=d)
 df.to_csv('200kannan.csv', index = True)
