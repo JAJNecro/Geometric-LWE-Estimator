@@ -3,14 +3,13 @@ load('../framework/utils.sage')
 import pandas as pd
 import time
 
-
 predicted_betas = []
 calculated_betas = []
 norms = []
 solutions = []
 times = []
 
-num_experiments = 200
+num_experiments = 500
 for x in range(num_experiments):
     start = time.time()
     print("========================================== Experiment: " + str(x) + "=========================================")
@@ -71,4 +70,4 @@ for x in range(num_experiments):
 
 d = {"Predicted Beta": predicted_betas, "Calculated Beta": calculated_betas, "Norms": norms, "Times": times}
 df = pd.DataFrame(data=d)
-df.to_csv('200ebdd.csv', index = True)
+df.to_csv('10ebdd.csv', index = True)
