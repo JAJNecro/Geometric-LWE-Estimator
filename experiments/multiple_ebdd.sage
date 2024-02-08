@@ -70,4 +70,4 @@ for x in range(num_experiments):
 
 d = {"Predicted Beta": predicted_betas, "Calculated Beta": calculated_betas, "Norms": norms, "Times": times}
 df = pd.DataFrame(data=d)
-df.to_csv('10ebdd.csv', index = True)
+df.to_csv('500ebdd.csv', index = True)
