@@ -8,7 +8,7 @@ class LWE(LWE_generic):
     This class is designed to hold a traditional LWE instance (i.e. sA^T + e = b)
     """
 
-    def __init__(self, n, q, m, D_e, D_s, verbosity=1, A=None, b=None, s=None, e_vec=None, Sigma_s = None, Sigma_e = None, mean_s = None, mean_e = None):
+    def __init__(self, n, q, m, D_e, D_s, verbosity=1, is_ring = False, A=None, b=None, s=None, e_vec=None, Sigma_s = None, Sigma_e = None, mean_s = None, mean_e = None):
         """
         Constructor that builds an LWE instance
         :n: (integer) size of the secret s
@@ -23,8 +23,16 @@ class LWE(LWE_generic):
         """
 
         # Draw random samples if A, s, e not provided. If b is provided, don't sample s and e.
+            
         if A is None:
-            A = matrix([[randint(0, q) for _ in range(n)] for _ in range(m)])
+            if is_ring:
+                r = [randint(0, q) for _ in range(n)]
+                a=reversed(list(r[1:]))
+                c=[r[0]]+list(-vector(a) % q)
+                A = matrix.toeplitz(c,r[1:])
+                A = A.T
+            else:
+                A = matrix([[randint(0, q) for _ in range(n)] for _ in range(m)])
 
         if b is None:
             if s is None:
