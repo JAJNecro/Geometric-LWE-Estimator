@@ -19,7 +19,7 @@ for x in range(num_experiments):
     #LWE Specs
     n = 64
     m = n
-    q = 2689
+    q = 3329
     sigma = sqrt(20)
     sigma_c = []
     mu = concatenate([0] * (m+n), [])
@@ -39,12 +39,12 @@ for x in range(num_experiments):
     predicted_betas.append(ebdd_with_lwe.beta)
     solutions.append(ebdd_with_lwe.u)
 
-    #beta, delta = ebdd_with_lwe.attack() 
-    #calculated_betas.append(beta)
+    beta, delta = ebdd_with_lwe.attack() 
+    calculated_betas.append(beta)
     end = time.time()
     times.append(end-start)
 
 #exporting to csv
-d = {"Predicted Beta": predicted_betas, "Norms": norms, "Times": times}
+d = {"Predicted Beta": predicted_betas, "Calculated Beta": calculated_betas, "Norms": norms, "Times": times}
 df = pd.DataFrame(data=d)
 df.to_csv('ringkannan.csv', index = True)

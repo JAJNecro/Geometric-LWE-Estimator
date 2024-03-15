@@ -9,7 +9,7 @@ norms = []
 solutions = []
 times = []
 
-num_experiments = 25
+num_experiments = 500
 for x in range(num_experiments):
     start = time.time()
     print("========================================== Experiment: " + str(x) + "=========================================")
@@ -63,12 +63,12 @@ for x in range(num_experiments):
     our_ebdd.estimate_attack()
     predicted_betas.append(our_ebdd.beta)
 
-    # beta, delta = our_ebdd.attack()
-    # calculated_betas.append(beta)
+    beta, delta = our_ebdd.attack()
+    calculated_betas.append(beta)
     end = time.time()
     times.append(end-start)
 
 
-d = {"Predicted Beta": predicted_betas, "Norms": norms, "Times": times}
+d = {"Predicted Beta": predicted_betas, "Calculated Beta": calculated_betas,  "Norms": norms, "Times": times}
 df = pd.DataFrame(data=d)
-df.to_csv('fixed_ringebdd.csv', index = True)
+df.to_csv('ring_ebdd_calculated.csv', index = True)
