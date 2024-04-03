@@ -57,7 +57,8 @@ for x in range(num_experiments):
     #checking ellipsoid norm for all c||s
     u = concatenate(c, s)
     our_ebdd.u = u
-    norm = scal((u - mu) * Sigma.inverse() * (u - mu).T)
+    norm = our_ebdd.ellip_norm()/d
+    #norm = scal((u - mu) * Sigma.inverse() * (u - mu).T)
     norms.append(norm)
     our_ebdd.estimate_attack()
     predicted_betas.append(our_ebdd.beta)
@@ -70,4 +71,4 @@ for x in range(num_experiments):
 
 d = {"Predicted Beta": predicted_betas, "Calculated Beta": calculated_betas, "Norms": norms, "Times": times}
 df = pd.DataFrame(data=d)
-df.to_csv('500ebdd.csv', index = True)
+df.to_csv('lwe_ebdd.csv', index = True)
