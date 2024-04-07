@@ -9,7 +9,7 @@ norms = []
 solutions = []
 times = []
 
-num_experiments = 500
+num_experiments = 250
 for x in range(num_experiments):
     start = time.time()
     print("========================================== Experiment: " + str(x) + "=========================================")
