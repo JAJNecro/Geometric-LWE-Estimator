@@ -101,4 +101,4 @@ for x in range(num_experiments):
 
 d = {"EBDD Normal Predicted Beta": ebdd_predicted_betas_normal, "EBDD Probabilistic Predicted Beta": ebdd_predicted_betas_prob, "EBDD Calculated Beta": ebdd_calculated_betas, "EBDD Norms": ebdd_norms, "Kannan Normal Predicted Beta": kannan_predicted_betas_normal, "Kannan Prob Predicted Beta": kannan_predicted_betas_prob, "Kannan Calculated Beta": kannan_calculated_betas, "Kannan Norms": kannan_norms, "Times": times}
 df = pd.DataFrame(data=d)
-df.to_csv('test_joint_lwe.csv', index = True)
+df.to_csv('joint_lwe.csv', index = True)
