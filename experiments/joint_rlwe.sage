@@ -3,15 +3,17 @@ load('../framework/utils.sage')
 import pandas as pd
 import time
 
-ebdd_predicted_betas = []
+ebdd_predicted_betas_normal = []
+ebdd_predicted_betas_prob = []
 ebdd_calculated_betas = []
 ebdd_norms = []
-kannan_predicted_betas = []
+kannan_predicted_betas_normal = []
+kannan_predicted_betas_prob = []
 kannan_calculated_betas = []
 kannan_norms = []
 times = []
 
-num_experiments = 1
+num_experiments = 100
 for x in range(num_experiments):
     start = time.time()
     print("========================================== Experiment: " + str(x) + "=========================================")
@@ -29,7 +31,7 @@ for x in range(num_experiments):
     Sigma = block_matrix([[diagonal_matrix(sigma_c), zero_matrix(n)],
                           [zero_matrix(n),(sigma ** 2) * identity_matrix(n)]])
     Sigma = Sigma * d #scale dimension (may have to remove)
-    our_ebdd = EBDD(identity_matrix(d), Sigma, mu, None)
+    our_ebdd = EBDD(identity_matrix(d), Sigma, mu, None, calibrate_volume = False)
     D_s = build_Gaussian_law(sigma, 50)
     D_e = D_s
 
@@ -65,7 +67,9 @@ for x in range(num_experiments):
     #norm = scal((u - mu) * Sigma.inverse() * (u - mu).T)
     ebdd_norms.append(norm)
     our_ebdd.estimate_attack()
-    ebdd_predicted_betas.append(our_ebdd.beta)
+    ebdd_predicted_betas_normal.append(our_ebdd.beta)
+    our_ebdd.estimate_attack(probabilistic = True)
+    ebdd_predicted_betas_prob.append(our_ebdd.beta)
 
     beta, delta = our_ebdd.attack()
     ebdd_calculated_betas.append(beta)
@@ -84,7 +88,9 @@ for x in range(num_experiments):
     norm = scal(matrix(u) * matrix(u.T))/((n+m)*sigma**2) 
     kannan_norms.append(float(norm)) 
     ebdd_with_lwe.estimate_attack()
-    kannan_predicted_betas.append(ebdd_with_lwe.beta)
+    kannan_predicted_betas_normal.append(ebdd_with_lwe.beta)
+    ebdd_with_lwe.estimate_attack(probabilistic = True)
+    kannan_predicted_betas_prob.append(ebdd_with_lwe.beta)
 
     beta, delta = ebdd_with_lwe.attack() 
     kannan_calculated_betas.append(beta)
@@ -93,6 +99,6 @@ for x in range(num_experiments):
     times.append(end-start)
 
 
-d = {"EBDD Predicted Beta": ebdd_predicted_betas, "EBDD Calculated Beta": ebdd_calculated_betas, "EBDD Norms": ebdd_norms, "Kannan Predicted Beta": kannan_predicted_betas, "Kannan Calculated Beta": kannan_calculated_betas, "Kannan Norms": kannan_norms, "Times": times}
+d = {"EBDD Normal Predicted Beta": ebdd_predicted_betas_normal, "EBDD Probabilistic Predicted Beta": ebdd_predicted_betas_prob, "EBDD Calculated Beta": ebdd_calculated_betas, "EBDD Norms": ebdd_norms, "Kannan Normal Predicted Beta": kannan_predicted_betas_normal, "Kannan Prob Predicted Beta": kannan_predicted_betas_prob, "Kannan Calculated Beta": kannan_calculated_betas, "Kannan Norms": kannan_norms, "Times": times}
 df = pd.DataFrame(data=d)
-df.to_csv('joint_rlwe.csv', index = True)
+df.to_csv('test_joint_rlwe.csv', index = True)
