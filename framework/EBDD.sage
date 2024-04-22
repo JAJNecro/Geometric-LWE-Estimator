@@ -33,7 +33,7 @@ class EBDD(DBDD_generic):
     the basis computations
     """
 
-    def __init__(self, B, S, mu, embedded_instance, u=None, verbosity=1, homogeneous=False, float_type="ld", D=None, Bvol=None, ellip_scale=1, calibrate_volume=True, circulant=False):
+    def __init__(self, B, S, mu, embedded_instance, u=None, verbosity=1, homogeneous=False, float_type="ld", D=None, Bvol=None, ellip_scale=1, calibrate_volume=False, circulant=False):
         """constructor that builds a EBDD instance from a lattice, mean, sigma
         and a target
         ;min_dim: Number of coordinates to find to consider the problem solved
