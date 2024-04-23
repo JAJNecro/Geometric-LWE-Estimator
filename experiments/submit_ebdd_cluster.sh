@@ -49,7 +49,7 @@ cp -r ${SLURM_SUBMIT_DIR}/geometricLWE ${SCRATCH_DIRECTORY}
 OUTFILE=ebdd_cluster-${SLURM_JOBID}.log
 RESULTS=ebdd_cluster.csv
 
-cd geometricLWE/validation
+cd geometricLWE/experiments
 sage ebdd_cluster.sage 100 1 > ${OUTFILE}
 
 # Copy outputs back to home directory
