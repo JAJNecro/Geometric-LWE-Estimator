@@ -33,7 +33,7 @@
 . /usr/share/Modules/init/bash
 . /etc/profile.d/ummodules.sh
 
-module add Python3/3.7.6
+module add Python3
 module add sage
 
 # Define and create unique scratch directory for this job
@@ -49,7 +49,9 @@ cp -r ${SLURM_SUBMIT_DIR}/geometricLWE ${SCRATCH_DIRECTORY}
 OUTFILE=ebdd_cluster-${SLURM_JOBID}.log
 RESULTS=ebdd_cluster.csv
 
-cd geometricLWE/experiments
+cd geometricLWE/ebdd_cluster
+sage --pip install --upgrade pip
+sage --pip install pandas
 sage ebdd_cluster.sage 100 1 > ${OUTFILE}
 
 # Copy outputs back to home directory
