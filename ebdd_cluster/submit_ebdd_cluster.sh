@@ -8,7 +8,7 @@
 
 # Set the number of cores needed
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=10
+#SBATCH --cpus-per-task=4
 
 # Set the amount of memory required
 #SBATCH --mem-per-cpu=2gb
