@@ -13,8 +13,8 @@ except:
     ring = 0
 
 
-def one_experiment(id):
-    set_random_seed(id)
+def one_experiment():
+    set_random_seed()
 
     ebdd_predicted_betas_normal = []
     ebdd_predicted_betas_prob = []
@@ -119,7 +119,7 @@ def one_experiment(id):
 
 
 def run_experiment(num_experiments):
-    num_experiments = nb_tests
     for i in range(num_experiments):
         one_experiment()
 
+run_experiment(nb_tests)

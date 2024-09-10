@@ -34,7 +34,7 @@
 . /etc/profile.d/ummodules.sh
 
 module add Python3
-module add sage
+module add sage/10.3
 
 # Define and create unique scratch directory for this job
 SCRATCH_DIRECTORY=/scratch0/${USER}/${SLURM_JOBID}
