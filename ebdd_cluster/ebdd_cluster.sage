@@ -13,23 +13,15 @@ except:
     ring = 0
 
 
+q = 3301
+n = 70
+m = n
+
 def one_experiment():
     set_random_seed()
 
-    ebdd_predicted_betas_normal = []
-    ebdd_predicted_betas_prob = []
-    ebdd_calculated_betas = []
-    ebdd_norms = []
-    kannan_predicted_betas_normal = []
-    kannan_predicted_betas_prob = []
-    kannan_calculated_betas = []
-    kannan_norms = []
-    times = []
 
     start = time.time()
-    n = 70
-    m = n
-    q = 3301
     sigma = sqrt(20)
     sigma_c = []
     mu = concatenate([0] * (m+n), [])
@@ -119,6 +111,15 @@ def one_experiment():
 
 
 def run_experiment(num_experiments):
+    ebdd_predicted_betas_normal = []
+    ebdd_predicted_betas_prob = []
+    ebdd_calculated_betas = []
+    ebdd_norms = []
+    kannan_predicted_betas_normal = []
+    kannan_predicted_betas_prob = []
+    kannan_calculated_betas = []
+    kannan_norms = []
+    times = []
     for i in range(num_experiments):
         one_experiment()
 
