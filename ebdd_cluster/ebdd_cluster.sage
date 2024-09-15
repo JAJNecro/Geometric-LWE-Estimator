@@ -110,16 +110,17 @@ def one_experiment():
     df.to_csv('ebdd_cluster.csv', index = True)
 
 
+ebdd_predicted_betas_normal = []
+ebdd_predicted_betas_prob = []
+ebdd_calculated_betas = []
+ebdd_norms = []
+kannan_predicted_betas_normal = []
+kannan_predicted_betas_prob = []
+kannan_calculated_betas = []
+kannan_norms = []
+times = []
+
 def run_experiment(num_experiments):
-    ebdd_predicted_betas_normal = []
-    ebdd_predicted_betas_prob = []
-    ebdd_calculated_betas = []
-    ebdd_norms = []
-    kannan_predicted_betas_normal = []
-    kannan_predicted_betas_prob = []
-    kannan_calculated_betas = []
-    kannan_norms = []
-    times = []
     for i in range(num_experiments):
         one_experiment()
 
