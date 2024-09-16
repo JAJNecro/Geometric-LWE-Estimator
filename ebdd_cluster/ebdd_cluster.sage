@@ -75,7 +75,7 @@ def one_experiment():
     try:
         beta, delta = our_ebdd.attack()
     except:
-	beta, delta = 0
+        beta, delta = 0
 	print("error")
     ebdd_calculated_betas.append(beta)
 
