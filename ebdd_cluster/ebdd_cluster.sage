@@ -72,7 +72,11 @@ def one_experiment():
     our_ebdd.estimate_attack(probabilistic = True)
     ebdd_predicted_betas_prob.append(our_ebdd.beta)
 
-    beta, delta = our_ebdd.attack()
+    try:
+        beta, delta = our_ebdd.attack()
+    except:
+	beta, delta = 0
+	print("error")
     ebdd_calculated_betas.append(beta)
 
 
