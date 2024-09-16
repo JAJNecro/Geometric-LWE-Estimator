@@ -76,8 +76,8 @@ def one_experiment():
         beta, delta = our_ebdd.attack()
     except:
         beta = 0
-	delta = 0
-	print("error")
+        delta = 0
+        print("error")
     ebdd_calculated_betas.append(beta)
 
 
@@ -103,7 +103,7 @@ def one_experiment():
         beta, delta = ebdd_with_lwe.attack() 
     except:
         beta = 0
-	delta = 0
+        delta = 0
         print("error")
 
     kannan_calculated_betas.append(beta)
