@@ -4,17 +4,20 @@ load('../framework/utils.sage')
 import pandas as pd
 import time
 from numpy.random import seed as np_seed
+from concurrent.futures import ProcessPoolExecutor, as_completed
+from multiprocessing import cpu_count
 
-nb_tests = 500
+nb_tests = 25
 ring = 1
 
 q = 3329
 n = 128
 m = n
 
-def one_experiment():
-    set_random_seed()
-
+def one_experiment(seed):
+    set_random_seed(seed)
+    assert(initial_seed() == seed)
+    np_seed(seed=seed)
 
     start = time.time()
     sigma = sqrt(3/2)
@@ -128,7 +131,25 @@ kannan_norms = []
 times = []
 
 def run_experiment(num_experiments):
-    for i in range(num_experiments):
-        one_experiment()
 
-run_experiment(nb_tests)
+    queue = []
+    seedgen = 0
+    with ProcessPoolExecutor(max_workers=cpu_count()) as pool:
+        try: 
+            for i in range(num_experiments):
+                future = pool.submit(one_experiment, seed = seedgen + i)
+                queue.append(future)
+            for future in as_completed(queue):
+                _ = future.result()
+        except Exception as e:
+            from traceback import print_exc
+            print("unknown exception in context execution")
+            print_exc()
+        finally:
+            sys.exit(0)
+
+if __name__ == "__main__":
+    run_experiment(nb_tests)
+
+
+
