@@ -113,10 +113,10 @@ def one_experiment(seed):
     kannan_calculated_beta = (beta)
 
     end = time.time()
-    time = (end-start)
+    length = (end-start)
 
 
-    return (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, time)
+    return (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, length)
 
 
 
@@ -141,7 +141,7 @@ def run_experiment(num_experiments):
                 future = pool.submit(one_experiment, seed = seedgen + i)
                 queue.append(future)
             for future in as_completed(queue):
-                (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, time) = future.result()
+                (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, length) = future.result()
                 ebdd_predicted_betas_normal.append(ebdd_predicted_beta_normal)
                 ebdd_predicted_betas_prob.append(ebdd_predicted_beta_prob)
                 ebdd_calculated_betas.append(ebdd_calculated_beta)
@@ -150,7 +150,7 @@ def run_experiment(num_experiments):
                 kannan_predicted_betas_prob.append(kannan_predicted_beta_prob)
                 kannan_calculated_betas.append(kannan_calculated_beta)
                 kannan_norms.append(kannan_norm)
-                times.append(time)
+                times.append(length)
 
         except Exception as e:
             from traceback import print_exc
