@@ -7,7 +7,7 @@ from numpy.random import seed as np_seed
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
-nb_tests = 2
+nb_tests = 25
 ring = 1
 
 q = 3329
@@ -98,9 +98,9 @@ def one_experiment(seed):
     norm = scal(matrix(u) * matrix(u.T))/((n+m)*sigma**2) 
     kannan_norm = (float(norm)) 
     ebdd_with_lwe.estimate_attack()
-    kannan_predicted_betas_normal = (ebdd_with_lwe.beta)
+    kannan_predicted_beta_normal = (ebdd_with_lwe.beta)
     ebdd_with_lwe.estimate_attack(probabilistic = True)
-    kannan_predicted_betas_prob = (ebdd_with_lwe.beta)
+    kannan_predicted_beta_prob = (ebdd_with_lwe.beta)
 
     # run even with error
     try:
