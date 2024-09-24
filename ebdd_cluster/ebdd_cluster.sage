@@ -15,6 +15,7 @@ n = 128
 m = n
 
 def one_experiment(seed):
+
     set_random_seed(seed)
     assert(initial_seed() == seed)
     np_seed(seed=seed)
@@ -69,19 +70,19 @@ def one_experiment(seed):
     our_ebdd.u = u
     norm = our_ebdd.ellip_norm()/d
     #norm = scal((u - mu) * Sigma.inverse() * (u - mu).T)
-    ebdd_norms.append(norm)
+    ebdd_norm = (norm)
     our_ebdd.estimate_attack()
-    ebdd_predicted_betas_normal.append(our_ebdd.beta)
+    ebdd_predicted_beta_normal = (our_ebdd.beta)
     our_ebdd.estimate_attack(probabilistic = True)
-    ebdd_predicted_betas_prob.append(our_ebdd.beta)
+    ebdd_predicted_beta_prob = (our_ebdd.beta)
 
     try:
-        beta, delta = our_ebdd.attack()
+        beta, delta = our_ebdd.attack(beta_max=60)
     except:
         beta = 0
         delta = 0
         print("error")
-    ebdd_calculated_betas.append(beta)
+    ebdd_calculated_beta = (beta)
 
 
 
@@ -95,42 +96,41 @@ def one_experiment(seed):
     #getting u, norm, and predicted betas
     u = concatenate(lwe_instance.s, lwe_instance.e_vec)
     norm = scal(matrix(u) * matrix(u.T))/((n+m)*sigma**2) 
-    kannan_norms.append(float(norm)) 
+    kannan_norm = (float(norm)) 
     ebdd_with_lwe.estimate_attack()
-    kannan_predicted_betas_normal.append(ebdd_with_lwe.beta)
+    kannan_predicted_betas_normal = (ebdd_with_lwe.beta)
     ebdd_with_lwe.estimate_attack(probabilistic = True)
-    kannan_predicted_betas_prob.append(ebdd_with_lwe.beta)
+    kannan_predicted_betas_prob = (ebdd_with_lwe.beta)
 
     # run even with error
     try:
-        beta, delta = ebdd_with_lwe.attack() 
+        beta, delta = ebdd_with_lwe.attack(beta_max=60) 
     except:
         beta = 0
         delta = 0
         print("error")
 
-    kannan_calculated_betas.append(beta)
+    kannan_calculated_beta = (beta)
 
     end = time.time()
-    times.append(end-start)
+    time = (end-start)
 
 
-    d = {"EBDD Normal Predicted Beta": ebdd_predicted_betas_normal, "EBDD Probabilistic Predicted Beta": ebdd_predicted_betas_prob, "EBDD Calculated Beta": ebdd_calculated_betas, "EBDD Norms": ebdd_norms, "Kannan Normal Predicted Beta": kannan_predicted_betas_normal, "Kannan Prob Predicted Beta": kannan_predicted_betas_prob, "Kannan Calculated Beta": kannan_calculated_betas, "Kannan Norms": kannan_norms, "Times": times}
-    df = pd.DataFrame(data=d)
-    df.to_csv('ebdd_cluster.csv', index = True)
+    return (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm)
 
 
-ebdd_predicted_betas_normal = []
-ebdd_predicted_betas_prob = []
-ebdd_calculated_betas = []
-ebdd_norms = []
-kannan_predicted_betas_normal = []
-kannan_predicted_betas_prob = []
-kannan_calculated_betas = []
-kannan_norms = []
-times = []
+
 
 def run_experiment(num_experiments):
+
+    ebdd_predicted_betas_normal = []
+    ebdd_predicted_betas_prob = []
+    ebdd_calculated_betas = []
+    ebdd_norms = []
+    kannan_predicted_betas_normal = []
+    kannan_predicted_betas_prob = []
+    kannan_calculated_betas  = []
+    kannan_norms = []
 
     queue = []
     seedgen = 0
@@ -140,12 +140,24 @@ def run_experiment(num_experiments):
                 future = pool.submit(one_experiment, seed = seedgen + i)
                 queue.append(future)
             for future in as_completed(queue):
-                _ = future.result()
+                (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm) = future.result()
+                ebdd_predicted_betas_normal.append(ebdd_predicted_beta_normal)
+                ebdd_predicted_betas_prob.append(ebdd_predicted_beta_prob)
+                ebdd_calculated_betas.append(ebdd_calculated_beta)
+                ebdd_norms.append(ebdd_norm)
+                kannan_predicted_betas_normal.append(kannan_predicted_beta_normal)
+                kannan_predicted_betas_prob.append(kannan_predicted_beta_prob)
+                kannan_calculated_betas.append(kannan_calculated_beta)
+                kannan_norms.append(kannan_norm)
+
         except Exception as e:
             from traceback import print_exc
             print("unknown exception in context execution")
             print_exc()
         finally:
+            d = {"EBDD Normal Predicted Beta": ebdd_predicted_betas_normal, "EBDD Probabilistic Predicted Beta": ebdd_predicted_betas_prob, "EBDD Calculated Beta": ebdd_calculated_betas, "EBDD Norms": ebdd_norms, "Kannan Normal Predicted Beta": kannan_predicted_betas_normal, "Kannan Prob Predicted Beta": kannan_predicted_betas_prob, "Kannan Calculated Beta": kannan_calculated_betas, "Kannan Norms": kannan_norms, "Times": times}
+            df = pd.DataFrame(data=d)
+            df.to_csv('ebdd_cluster.csv', index = True)
             sys.exit(0)
 
 if __name__ == "__main__":
