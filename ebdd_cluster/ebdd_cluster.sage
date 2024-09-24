@@ -7,7 +7,7 @@ from numpy.random import seed as np_seed
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
-nb_tests = 25
+nb_tests = 2
 ring = 1
 
 q = 3329
@@ -116,7 +116,7 @@ def one_experiment(seed):
     time = (end-start)
 
 
-    return (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm)
+    return (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, time)
 
 
 
@@ -131,6 +131,7 @@ def run_experiment(num_experiments):
     kannan_predicted_betas_prob = []
     kannan_calculated_betas  = []
     kannan_norms = []
+    times = []
 
     queue = []
     seedgen = 0
@@ -140,7 +141,7 @@ def run_experiment(num_experiments):
                 future = pool.submit(one_experiment, seed = seedgen + i)
                 queue.append(future)
             for future in as_completed(queue):
-                (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm) = future.result()
+                (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, time) = future.result()
                 ebdd_predicted_betas_normal.append(ebdd_predicted_beta_normal)
                 ebdd_predicted_betas_prob.append(ebdd_predicted_beta_prob)
                 ebdd_calculated_betas.append(ebdd_calculated_beta)
@@ -149,6 +150,7 @@ def run_experiment(num_experiments):
                 kannan_predicted_betas_prob.append(kannan_predicted_beta_prob)
                 kannan_calculated_betas.append(kannan_calculated_beta)
                 kannan_norms.append(kannan_norm)
+		times.append(time)
 
         except Exception as e:
             from traceback import print_exc
