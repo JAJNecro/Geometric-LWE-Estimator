@@ -7,7 +7,7 @@ from numpy.random import seed as np_seed
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
-nb_tests = 25
+nb_tests = 50
 ring = 1
 
 q = 3329
@@ -134,7 +134,7 @@ def run_experiment(num_experiments):
     times = []
 
     queue = []
-    seedgen = 0
+    seedgen = 25
     with ProcessPoolExecutor(max_workers=cpu_count()) as pool:
         try: 
             for i in range(num_experiments):
