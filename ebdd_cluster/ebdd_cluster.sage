@@ -77,7 +77,7 @@ def one_experiment(seed):
     ebdd_predicted_beta_prob = (our_ebdd.beta)
 
     try:
-        beta, delta = our_ebdd.attack(beta_max=60)
+        beta, delta = our_ebdd.attack(beta_max=80)
     except:
         beta = 0
         delta = 0
@@ -104,11 +104,15 @@ def one_experiment(seed):
 
     # run even with error
     try:
-        beta, delta = ebdd_with_lwe.attack(beta_max=60) 
-    except:
+        beta, delta = ebdd_with_lwe.attack(beta_max=80) 
+    except ReductionError as e:
+        beta = 1
+        delta = 1
+        print(f"Exception type: {type(e).__name__}")
+    except Exception as err:
         beta = 0
         delta = 0
-        print("error")
+        print(f"Exception type: {type(err).__name__}")
 
     kannan_calculated_beta = (beta)
 
@@ -116,7 +120,7 @@ def one_experiment(seed):
     length = (end-start)
 
 
-    return (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, length)
+    return (seed, ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, length)
 
 
 
@@ -132,16 +136,18 @@ def run_experiment(num_experiments):
     kannan_calculated_betas  = []
     kannan_norms = []
     times = []
+    seeds = []
 
     queue = []
-    seedgen = 25
+    seedgen = 0
     with ProcessPoolExecutor(max_workers=cpu_count()) as pool:
         try: 
             for i in range(num_experiments):
                 future = pool.submit(one_experiment, seed = seedgen + i)
                 queue.append(future)
             for future in as_completed(queue):
-                (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, length) = future.result()
+                (seed, ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, length) = future.result()
+                seeds.append(seed)
                 ebdd_predicted_betas_normal.append(ebdd_predicted_beta_normal)
                 ebdd_predicted_betas_prob.append(ebdd_predicted_beta_prob)
                 ebdd_calculated_betas.append(ebdd_calculated_beta)
@@ -157,7 +163,7 @@ def run_experiment(num_experiments):
             print("unknown exception in context execution")
             print_exc()
         finally:
-            d = {"EBDD Normal Predicted Beta": ebdd_predicted_betas_normal, "EBDD Probabilistic Predicted Beta": ebdd_predicted_betas_prob, "EBDD Calculated Beta": ebdd_calculated_betas, "EBDD Norms": ebdd_norms, "Kannan Normal Predicted Beta": kannan_predicted_betas_normal, "Kannan Prob Predicted Beta": kannan_predicted_betas_prob, "Kannan Calculated Beta": kannan_calculated_betas, "Kannan Norms": kannan_norms, "Times": times}
+            d = {"Seed": seeds, "EBDD Normal Predicted Beta": ebdd_predicted_betas_normal, "EBDD Probabilistic Predicted Beta": ebdd_predicted_betas_prob, "EBDD Calculated Beta": ebdd_calculated_betas, "EBDD Norms": ebdd_norms, "Kannan Normal Predicted Beta": kannan_predicted_betas_normal, "Kannan Prob Predicted Beta": kannan_predicted_betas_prob, "Kannan Calculated Beta": kannan_calculated_betas, "Kannan Norms": kannan_norms, "Times": times}
             df = pd.DataFrame(data=d)
             df.to_csv('ebdd_cluster.csv', index = True)
             sys.exit(0)
