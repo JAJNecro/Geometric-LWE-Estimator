@@ -7,7 +7,7 @@ from numpy.random import seed as np_seed
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
-nb_tests = 50
+nb_tests = 25
 ring = 1
 
 q = 3329
@@ -78,10 +78,15 @@ def one_experiment(seed):
 
     try:
         beta, delta = our_ebdd.attack(beta_max=80)
-    except:
+    except ReductionError as e:
+        beta = 1
+        delta = 1
+        print(f"Exception type: {type(e).__name__}")
+    except Exception as err:
         beta = 0
         delta = 0
-        print("error")
+        print(f"Exception type: {type(err).__name__}")
+
     ebdd_calculated_beta = (beta)
 
 
