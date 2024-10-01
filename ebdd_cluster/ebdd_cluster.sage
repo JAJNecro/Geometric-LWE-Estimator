@@ -7,7 +7,7 @@ from numpy.random import seed as np_seed
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
-nb_tests = 25
+nb_tests = 75
 ring = 1
 
 q = 3329
