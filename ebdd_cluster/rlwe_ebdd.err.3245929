@@ -1,0 +1,28 @@
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/opt/local/stow/sage-10.3/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch0/jjavillo/3245929/geometricLWE/ebdd_cluster/ebdd_cluster.sage.py", line 82, in one_experiment
+    our_ebdd.estimate_attack(probabilistic = True)
+  File "<string>", line 26, in decorated
+  File "<string>", line 476, in estimate_attack
+  File "<string>", line 345, in compute_beta_delta
+  File "<string>", line 262, in conditional_chi_squared
+ValueError: Numerical underflow in conditional_chi_squared
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch0/jjavillo/3245929/geometricLWE/ebdd_cluster/ebdd_cluster.sage.py", line 160, in run_experiment
+    (seed, ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm, length) = future.result()
+                                                                                                                                                                                                           ^^^^^^^^^^^^^^^
+  File "/opt/local/stow/sage-10.3/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/local/stow/sage-10.3/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+ValueError: Numerical underflow in conditional_chi_squared
+0

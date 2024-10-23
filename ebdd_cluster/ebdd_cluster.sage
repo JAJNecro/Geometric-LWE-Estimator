@@ -7,10 +7,10 @@ from numpy.random import seed as np_seed
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
-nb_tests = 75
-ring = 1
+nb_tests = 70
+ring = 0
 
-q = 3329
+q = 7681
 n = 128
 m = n
 
@@ -21,7 +21,7 @@ def one_experiment(seed):
     np_seed(seed=seed)
 
     start = time.time()
-    sigma = sqrt(3/2)
+    sigma = sqrt(.1)
     sigma_c = []
     mu = concatenate([0] * (m+n), [])
     d = m + n
