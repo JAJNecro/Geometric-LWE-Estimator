@@ -48,13 +48,15 @@ cp -r ~/geometricLWE ${SCRATCH_DIRECTORY}
 
 # Run code
 
-OUTFILE=ebdd_cluster-${SLURM_JOBID}.log
-RESULTS=ebdd_cluster-${SLURM_JOBID}.csv
+TO_RUN=lwe_n128_s75-200
+
+OUTFILE=${TO_RUN}-${SLURM_JOBID}.log
+RESULTS=${TO_RUN}-${SLURM_JOBID}.csv
 
 cd geometricLWE/ebdd_cluster
 sage --pip install --upgrade pip
 sage --pip install pandas
-sage ebdd_cluster.sage > ${OUTFILE}
+sage ${TO_RUN}.sage > ${OUTFILE}
 
 # Copy outputs back to home directory
 mv ebdd_cluster.csv ${RESULTS}
