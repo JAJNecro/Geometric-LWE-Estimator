@@ -1,0 +1,31 @@
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/opt/local/stow/sage-10.3/lib/python3.11/concurrent/futures/process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch0/jjavillo/3143402/geometricLWE/ebdd_cluster/ebdd_cluster.sage.py", line 29, in one_experiment
+    start = time.time()
+            ^^^^
+UnboundLocalError: cannot access local variable 'time' where it is not associated with a value
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch0/jjavillo/3143402/geometricLWE/ebdd_cluster/ebdd_cluster.sage.py", line 149, in run_experiment
+    (ebdd_predicted_beta_normal, ebdd_predicted_beta_prob, ebdd_calculated_beta, ebdd_norm, kannan_predicted_beta_normal, kannan_predicted_beta_prob, kannan_calculated_beta, kannan_norm) = future.result()
+                                                                                                                                                                                             ^^^^^^^^^^^^^^^
+  File "/opt/local/stow/sage-10.3/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/local/stow/sage-10.3/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+UnboundLocalError: cannot access local variable 'time' where it is not associated with a value
+Traceback (most recent call last):
+  File "/scratch0/jjavillo/3143402/geometricLWE/ebdd_cluster/ebdd_cluster.sage.py", line 170, in <module>
+    run_experiment(nb_tests)
+  File "/scratch0/jjavillo/3143402/geometricLWE/ebdd_cluster/ebdd_cluster.sage.py", line 164, in run_experiment
+    d = {"EBDD Normal Predicted Beta": ebdd_predicted_betas_normal, "EBDD Probabilistic Predicted Beta": ebdd_predicted_betas_prob, "EBDD Calculated Beta": ebdd_calculated_betas, "EBDD Norms": ebdd_norms, "Kannan Normal Predicted Beta": kannan_predicted_betas_normal, "Kannan Prob Predicted Beta": kannan_predicted_betas_prob, "Kannan Calculated Beta": kannan_calculated_betas, "Kannan Norms": kannan_norms, "Times": times}
+                                                                                                                                                                                                                                                                                                                                                                                                                                 ^^^^^
+NameError: name 'times' is not defined

@@ -1,0 +1,1296 @@
+[ 1 -1 -1  1  1 -1  1 -2 -2  1 -1  1 -1 -2  0  0  0  2 -1  2  3  2  1 -1  0 -1  0 -2  1  1  0 -1  1 -1  0 -1 -1 -1 -2 -1  1  1 -1  0 -1 -1  0  0  0  1 -1  1 -3  0  0  0 -1  0  1  0  0  0 -1  0  0  1  2  0  2  0  3  1  3 -1 -1  0  0  0  0  0  0  1  0 -1 -1  0  1  0 -1 -2  0 -1  0 -1  0  0 -1  0  2  0 -1  0 -1 -2  0 -1 -1 -1  0 -2  1  2 -1  0  2  1 -2 -1 -2 -1 -1  1 -2 -1  1 -1  0  0]
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [ 3  1  3 -1 -1  0  3  0  0  1 -1  0  2 -3  0 -1  0  1  0 -2  1 -2 -1  2  0  0 -1  0 -1  1  1 -2  1  0  0  1  1 -1  1 -1  1 -1 -1  0  1  1 -1  0  1 -1 -2  1 -1  0  1  0 -2  1  2  1 -2  1  1 -1  2  2 -1  0 -1  0 -1 -2  1 -1  0  1  0 -1  1 -1  0  0 -1  1 -1  2  1  2  1 -2 -1  0  1  2  1  0  1  1 -1  1  0  1  1 -2  3 -1  0 -1 -1  2  1  0 -1  0 -1  2  1 -2  0 -2  1 -1 -1 -3  3  0  0  1]
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [ 1 -1  0  1 -2 -2  0  0  0  1  0  1 -1  0 -1 -1  0  1  0  1  0 -1  1  0  1 -1  0  0  1 -2  3 -1 -2  2  1  0 -1  1  1  0  1  1  0  0  1  2 -1  0  0  1  0  0  1  0  1  1 -1 -1 -1 -1  1 -1  1 -1  1  1  0  0  3  0 -1 -1 -1  1 -1  0  0  0  0  0  0  1  0 -2 -1  1 -1  0 -2  2 -1  1  2 -1 -1 -2 -1  1  1  0  0 -1 -1  3  2  1  0  1 -2 -1  1  1  0  0  0 -2 -1  0  1  0  0 -1 -1  1  0 -1 -2  1]
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [ 1 -1  0  0  0  0  0  1  1  1  1 -1  0  2  0 -1  1  1  0  0  2  3  0 -1  2 -2  0  0  0  2  0  1 -2  1 -1  0 -1  2  0 -1 -3 -1  0 -1  0  1 -2  0  0  0  0 -1  0  0  1  0 -1  0 -1 -1  0  1 -1  1  0  1 -1  1 -2 -1 -2  0  0  2  1  0 -2  1 -1 -1 -2 -1 -1  1  0 -2  1  3 -1 -1  0 -2  1 -1  1  0 -2 -1  0 -1  1  1 -2  1 -2 -1  0 -2 -1  4  0  0 -2 -1  0 -1 -1 -2 -1  0  0  0  0  0  2  1  1  2]
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [ 1  0  1  1  1  1  0 -1  0  0 -1  1  0  1  0 -1  2  1  2  0  1  0  1  0  0 -1  0  0  0  1  1  0 -1  1  1  1  2 -1  0 -1  3  1 -2  1 -1  1  1 -1  1 -2  1  0  1  2  1  0  0  0 -3  3  2 -1 -1  0  0  1  1  0 -3  1  1  0  0  1  2 -1  1  0  2  0 -1  0 -1  1  1  1  1  1  3  0  0  0 -1 -1  0  1 -1 -1  0 -2 -1  0  2 -1  2  1  0 -2 -1  1  0 -2  1  1 -1  2 -1  0 -1  1  1 -1  0  0  0  0  0 -1]
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00542035, β=252.76 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00541583, β=253.32 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00551545, β=245.94 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00551083, β=246.49 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00561686, β=239.35 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00560442, β=239.90 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00570922, β=232.99 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00570444, β=233.53 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00543355, β=252.14 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00580818, β=226.85 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00580329, β=227.38 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00542561, β=252.51 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00552877, β=245.33 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00590589, β=220.90 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00590092, β=221.43 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00552072, β=245.70 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00562256, β=238.76 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00601090, β=215.16 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00599726, β=215.68 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00562213, β=239.12 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;31m 	 Unworthy hint, Forced it. [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00610617, β=209.60 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00572281, β=232.42 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00610103, β=210.12 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00571449, β=232.77 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00540860, β=253.66 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00620904, β=204.22 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00619483, β=204.73 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00582187, β=226.29 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00581344, β=226.63 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00550341, β=246.83 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00631087, β=199.01 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00629637, β=199.52 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00591964, β=220.36 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00591114, β=220.70 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00640213, β=193.97 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00639682, β=194.47 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00560452, β=240.24 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00601611, β=214.63 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00600754, β=214.96 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00651118, β=189.09 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00649613, β=189.58 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00569661, β=233.87 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00611997, β=209.09 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00611137, β=209.41 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00660956, β=184.36 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00659423, β=184.84 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00579524, β=227.71 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00621382, β=203.73 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00670669, β=179.77 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00621422, β=204.04 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00670124, β=180.25 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00589266, β=221.76 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00631543, β=198.54 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00681291, β=175.32 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00679703, β=175.79 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00630679, β=198.84 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00599734, β=216.01 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00641595, β=193.51 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00691824, β=171.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00690209, β=171.47 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00640725, β=193.80 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00609236, β=210.44 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00651531, β=188.64 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00701174, β=166.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00700622, β=167.28 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00650657, β=188.92 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00619493, β=205.05 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00711491, β=162.75 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00661346, β=183.92 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00710938, β=163.21 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00661461, β=184.20 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00628729, β=199.84 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00721706, β=158.81 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00721151, β=159.26 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00672055, β=179.34 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00671169, β=179.62 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00638753, β=194.79 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00731814, β=154.97 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00731256, β=155.42 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00681635, β=174.91 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00681787, β=175.17 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00743008, β=151.25 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00741250, β=151.69 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00648661, β=189.89 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00692147, β=170.60 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00691249, β=170.86 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00752915, β=147.63 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00752348, β=148.06 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00659439, β=185.15 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00702564, β=166.43 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00701662, β=166.68 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00763952, β=144.11 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00762127, β=144.54 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00669126, β=180.56 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00712883, β=162.38 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00773639, β=140.69 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00711976, β=162.62 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00773057, β=141.12 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00679720, β=176.10 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00723099, β=158.44 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00784503, β=137.36 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00782606, β=137.79 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00722187, β=158.68 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00689165, β=171.77 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00733208, β=154.62 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00795290, β=134.12 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00793354, β=134.54 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00732290, β=154.85 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00699552, β=167.58 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00743204, β=150.90 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00804621, β=130.97 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00804018, β=131.39 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00743480, β=151.13 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00709843, β=163.51 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00754311, β=147.29 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00815206, β=127.90 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00814595, β=128.31 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00753380, β=147.52 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00720031, β=159.55 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00825700, β=124.91 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00825084, β=125.32 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00764094, β=143.79 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00764410, β=144.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00730114, β=155.71 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00836099, β=122.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00835478, β=122.40 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00775034, β=140.37 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00774089, β=140.59 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00847896, β=119.16 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00740084, β=151.98 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00845774, β=119.56 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00785898, β=137.05 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00784946, β=137.26 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00858123, β=116.39 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00855964, β=116.79 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00751159, β=148.35 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00795342, β=133.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00795721, β=134.03 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00868242, β=113.69 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00867604, β=114.09 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00760921, β=144.83 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00806015, β=130.68 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00879845, β=111.06 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00877607, β=111.45 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00805043, β=130.88 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00771832, β=141.40 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00816601, β=127.62 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00815619, β=127.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00889772, β=108.49 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00887493, β=108.88 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00782668, β=138.06 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00827089, β=124.63 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00899571, β=105.98 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00898920, β=106.37 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00826105, β=124.83 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00792095, β=134.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00837481, β=121.73 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00910951, β=103.53 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00908595, β=103.91 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00836495, β=121.92 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00802740, β=131.66 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00847775, β=118.90 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00922270, β=101.13 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00919877, β=101.52 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00848282, β=119.08 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00813299, β=128.58 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00859496, β=116.14 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00931752, β=98.79 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00931098, β=99.18 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00858503, β=116.32 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00823768, β=125.59 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00942912, β=96.51 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00940443, β=96.89 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00869612, β=113.44 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00868616, β=113.62 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00834142, β=122.67 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00954004, β=94.27 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00951493, β=94.65 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00879615, β=110.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00878616, β=110.99 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00844418, β=119.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00965026, β=92.08 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00962473, β=92.46 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00891136, β=108.25 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00890134, β=108.42 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00974039, β=89.94 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00973380, β=90.31 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00856113, β=117.05 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00900937, β=105.75 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00984871, β=87.84 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00984209, β=88.21 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00899930, β=105.92 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00866214, β=114.34 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00912319, β=103.30 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00995622, β=85.79 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00994960, β=86.16 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00911307, β=103.47 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00876203, β=111.70 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00921900, β=100.91 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01006282, β=83.77 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01005628, β=84.14 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00922623, β=101.08 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00887698, β=109.12 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00933129, β=98.58 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01016853, β=81.80 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01016209, β=82.16 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00932103, β=98.74 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00897489, β=106.61 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00944291, β=96.30 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01027332, β=79.86 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01026699, β=80.22 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00943260, β=96.45 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00908847, β=104.15 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01037715, β=77.96 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01037095, β=78.32 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00955385, β=94.06 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00954346, β=94.22 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00918420, β=101.75 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01050251, β=76.09 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01047392, β=76.45 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00964511, β=91.88 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00965362, β=92.03 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00929622, β=99.41 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01060477, β=74.26 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01057581, β=74.62 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00975423, β=89.74 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00974369, β=89.89 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01070593, β=72.45 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01067662, β=72.81 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00940761, β=97.12 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00986256, β=87.65 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00985192, β=87.80 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01080594, β=70.68 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01080024, β=71.03 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00949989, β=94.87 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00997006, β=85.60 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01090475, β=68.93 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01089930, β=69.28 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00995929, β=85.74 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00960955, β=92.68 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01007671, β=83.59 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01102750, β=67.20 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01099711, β=67.56 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01006582, β=83.73 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00971848, β=90.53 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01018247, β=81.61 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01112435, β=65.50 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01109361, β=65.86 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01017144, β=81.76 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00982665, β=88.43 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01028730, β=79.68 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01121982, β=63.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01121502, β=64.18 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01027614, β=79.83 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.00993402, β=86.37 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01039109, β=77.78 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01134087, β=62.16 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01130943, β=62.51 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01037986, β=77.93 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01004057, β=84.35 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01143410, β=60.52 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01140232, β=60.87 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01049387, β=75.92 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01050512, β=76.06 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01014624, β=82.38 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01152572, β=58.89 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01152186, β=59.24 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01061867, β=74.09 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01060729, β=74.23 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01025102, β=80.43 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01164475, β=57.27 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01161234, β=57.62 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01071983, β=72.28 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01070837, β=72.42 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01173379, β=55.66 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01173062, β=56.02 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01035485, β=78.53 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01081983, β=70.51 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01185147, β=54.05 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01080831, β=70.65 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01181843, β=54.41 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01045769, β=76.66 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01091862, β=68.76 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01193766, β=52.44 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01190432, β=52.81 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01090703, β=68.90 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01055949, β=74.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01104138, β=67.04 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01202180, β=50.83 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01202021, β=51.20 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01102973, β=67.18 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01068357, β=73.01 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01113824, β=65.34 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01213692, β=49.20 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01210294, β=49.58 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01112651, β=65.48 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01078368, β=71.23 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01123366, β=63.67 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01221767, β=47.56 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01218337, β=47.94 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01122191, β=63.80 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01088261, β=69.48 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01229826, β=45.92 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01135465, β=62.01 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01229739, β=46.30 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01134288, β=62.14 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01098029, β=67.75 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01241266, β=44.28 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01237773, β=44.67 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01144786, β=60.37 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01143604, β=60.50 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01110224, β=66.05 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01249369, β=42.64 [0m
+[3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01249158, β=43.03 [0m
+[3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01153947, β=58.74 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01152760, β=58.87 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01119793, β=64.37 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01165848, β=57.12 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01164657, β=57.25 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01129219, β=62.71 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01174749, β=55.51 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01173556, β=55.64 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01141237, β=61.06 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01183466, β=53.90 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01185319, β=54.03 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01150435, β=59.44 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01195135, β=52.30 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01193933, β=52.43 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01159468, β=57.82 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01203549, β=50.68 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01202341, β=50.81 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01171282, β=56.21 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01215061, β=49.04 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01213847, β=49.18 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01180048, β=54.61 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01223137, β=47.41 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01221916, β=47.54 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01191722, β=53.00 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01231197, β=45.77 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01229969, β=45.90 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01200196, β=51.40 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01242638, β=44.13 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01241402, β=44.26 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01208456, β=49.78 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01250742, β=42.48 [0m
+[3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01249499, β=42.62 [0m
+[3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01219822, β=48.15 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01227875, β=46.51 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01235895, β=44.88 [0m
+[1;37m integrate approx hint [0m [0m (conditionning) [0m [3;32m 	 Worthy hint ! [0m [1;33m dim=256, δ=1.01247265, β=43.24 [0m
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012492 	 β=43.03  [0m
+[0m  [0m
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012494 	 β=42.64  [0m
+[0m  [0m
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012495 	 β=42.62  [0m
+[0m  [0m
+β= 2,	 pr=2.2118e-39, 	 cum-pr=2.2118e-39 	 rem-pr=1.0000e+00
+β= 3,	 pr=2.6973e-36, 	 cum-pr=2.6995e-36 	 rem-pr=1.0000e+00
+β= 4,	 pr=1.0712e-34, 	 cum-pr=1.0982e-34 	 rem-pr=1.0000e+00
+β= 5,	 pr=1.2319e-33, 	 cum-pr=1.3417e-33 	 rem-pr=1.0000e+00
+β= 6,	 pr=7.7447e-33, 	 cum-pr=9.0864e-33 	 rem-pr=1.0000e+00
+β= 7,	 pr=3.4234e-32, 	 cum-pr=4.3320e-32 	 rem-pr=1.0000e+00
+β= 8,	 pr=1.2436e-31, 	 cum-pr=1.6768e-31 	 rem-pr=1.0000e+00
+β= 9,	 pr=4.0353e-31, 	 cum-pr=5.7121e-31 	 rem-pr=1.0000e+00
+β= 10,	 pr=1.2164e-30, 	 cum-pr=1.7877e-30 	 rem-pr=1.0000e+00
+β= 11,	 pr=3.6313e-30, 	 cum-pr=5.4190e-30 	 rem-pr=1.0000e+00
+β= 12,	 pr=1.1137e-29, 	 cum-pr=1.6556e-29 	 rem-pr=1.0000e+00
+β= 13,	 pr=3.5834e-29, 	 cum-pr=5.2389e-29 	 rem-pr=1.0000e+00
+β= 14,	 pr=1.1989e-28, 	 cum-pr=1.7228e-28 	 rem-pr=1.0000e+00
+β= 15,	 pr=4.7723e-28, 	 cum-pr=6.4951e-28 	 rem-pr=1.0000e+00
+β= 16,	 pr=2.0603e-27, 	 cum-pr=2.7098e-27 	 rem-pr=1.0000e+00
+β= 17,	 pr=1.0115e-26, 	 cum-pr=1.2825e-26 	 rem-pr=1.0000e+00
+β= 18,	 pr=5.9637e-26, 	 cum-pr=7.2462e-26 	 rem-pr=1.0000e+00
+β= 19,	 pr=4.0565e-25, 	 cum-pr=4.7811e-25 	 rem-pr=1.0000e+00
+β= 20,	 pr=2.7377e-24, 	 cum-pr=3.2158e-24 	 rem-pr=1.0000e+00
+β= 21,	 pr=2.0602e-23, 	 cum-pr=2.3818e-23 	 rem-pr=1.0000e+00
+β= 22,	 pr=1.7076e-22, 	 cum-pr=1.9457e-22 	 rem-pr=1.0000e+00
+β= 23,	 pr=2.0219e-21, 	 cum-pr=2.2165e-21 	 rem-pr=1.0000e+00
+β= 24,	 pr=2.5590e-20, 	 cum-pr=2.7807e-20 	 rem-pr=1.0000e+00
+β= 25,	 pr=3.0089e-19, 	 cum-pr=3.2870e-19 	 rem-pr=1.0000e+00
+β= 26,	 pr=3.0709e-18, 	 cum-pr=3.3996e-18 	 rem-pr=1.0000e+00
+β= 27,	 pr=2.7152e-17, 	 cum-pr=3.0552e-17 	 rem-pr=1.0000e+00
+β= 28,	 pr=2.6818e-16, 	 cum-pr=2.9874e-16 	 rem-pr=1.0000e+00
+β= 29,	 pr=2.9803e-15, 	 cum-pr=3.2791e-15 	 rem-pr=1.0000e+00
+β= 30,	 pr=3.5213e-14, 	 cum-pr=3.8492e-14 	 rem-pr=1.0000e+00
+β= 31,	 pr=4.5459e-13, 	 cum-pr=4.9309e-13 	 rem-pr=1.0000e+00
+β= 32,	 pr=5.8501e-12, 	 cum-pr=6.3432e-12 	 rem-pr=1.0000e+00
+β= 33,	 pr=5.3039e-11, 	 cum-pr=5.9382e-11 	 rem-pr=1.0000e+00
+β= 34,	 pr=4.6843e-10, 	 cum-pr=5.2782e-10 	 rem-pr=1.0000e+00
+β= 35,	 pr=2.9277e-09, 	 cum-pr=3.4555e-09 	 rem-pr=1.0000e+00
+β= 36,	 pr=1.6576e-08, 	 cum-pr=2.0032e-08 	 rem-pr=1.0000e+00
+β= 37,	 pr=8.5860e-08, 	 cum-pr=1.0589e-07 	 rem-pr=1.0000e+00
+β= 38,	 pr=4.3653e-07, 	 cum-pr=5.4242e-07 	 rem-pr=1.0000e+00
+β= 39,	 pr=2.3069e-06, 	 cum-pr=2.8493e-06 	 rem-pr=1.0000e+00
+β= 40,	 pr=1.0022e-05, 	 cum-pr=1.2871e-05 	 rem-pr=9.9999e-01
+β= 41,	 pr=4.1774e-05, 	 cum-pr=5.4644e-05 	 rem-pr=9.9995e-01
+β= 42,	 pr=1.5959e-04, 	 cum-pr=2.1423e-04 	 rem-pr=9.9979e-01
+β= 43,	 pr=7.2811e-04, 	 cum-pr=9.4219e-04 	 rem-pr=9.9906e-01
+β= 44,	 pr=2.4888e-03, 	 cum-pr=3.4286e-03 	 rem-pr=9.9657e-01
+β= 45,	 pr=7.8191e-03, 	 cum-pr=1.1221e-02 	 rem-pr=9.8878e-01
+β= 46,	 pr=2.5883e-02, 	 cum-pr=3.6814e-02 	 rem-pr=9.6319e-01
+β= 47,	 pr=6.3356e-02, 	 cum-pr=9.7837e-02 	 rem-pr=9.0216e-01
+β= 48,	 pr=1.3337e-01, 	 cum-pr=2.1816e-01 	 rem-pr=7.8184e-01
+β= 49,	 pr=2.4315e-01, 	 cum-pr=4.0826e-01 	 rem-pr=5.9174e-01
+β= 50,	 pr=3.8809e-01, 	 cum-pr=6.3791e-01 	 rem-pr=3.6209e-01
+β= 51,	 pr=5.4979e-01, 	 cum-pr=8.3698e-01 	 rem-pr=1.6302e-01
+β= 52,	 pr=7.0274e-01, 	 cum-pr=9.5154e-01 	 rem-pr=4.8457e-02
+β= 53,	 pr=8.2576e-01, 	 cum-pr=9.9156e-01 	 rem-pr=8.4431e-03
+β= 54,	 pr=9.1010e-01, 	 cum-pr=9.9924e-01 	 rem-pr=7.5906e-04
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=49.81  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+β= 2,	 pr=1.2226e-39, 	 cum-pr=1.2226e-39 	 rem-pr=1.0000e+00
+β= 3,	 pr=1.5436e-36, 	 cum-pr=1.5448e-36 	 rem-pr=1.0000e+00
+β= 4,	 pr=6.2375e-35, 	 cum-pr=6.3920e-35 	 rem-pr=1.0000e+00
+β= 5,	 pr=7.2522e-34, 	 cum-pr=7.8914e-34 	 rem-pr=1.0000e+00
+β= 6,	 pr=4.5949e-33, 	 cum-pr=5.3840e-33 	 rem-pr=1.0000e+00
+β= 7,	 pr=2.0431e-32, 	 cum-pr=2.5815e-32 	 rem-pr=1.0000e+00
+β= 8,	 pr=7.4569e-32, 	 cum-pr=1.0038e-31 	 rem-pr=1.0000e+00
+β= 9,	 pr=2.4292e-31, 	 cum-pr=3.4331e-31 	 rem-pr=1.0000e+00
+β= 10,	 pr=7.3476e-31, 	 cum-pr=1.0781e-30 	 rem-pr=1.0000e+00
+β= 11,	 pr=2.1998e-30, 	 cum-pr=3.2779e-30 	 rem-pr=1.0000e+00
+β= 12,	 pr=6.7675e-30, 	 cum-pr=1.0045e-29 	 rem-pr=1.0000e+00
+β= 13,	 pr=2.1827e-29, 	 cum-pr=3.1872e-29 	 rem-pr=1.0000e+00
+β= 14,	 pr=7.3218e-29, 	 cum-pr=1.0509e-28 	 rem-pr=1.0000e+00
+β= 15,	 pr=2.9181e-28, 	 cum-pr=3.9690e-28 	 rem-pr=1.0000e+00
+β= 16,	 pr=1.2675e-27, 	 cum-pr=1.6644e-27 	 rem-pr=1.0000e+00
+β= 17,	 pr=6.2230e-27, 	 cum-pr=7.8874e-27 	 rem-pr=1.0000e+00
+β= 18,	 pr=3.6715e-26, 	 cum-pr=4.4603e-26 	 rem-pr=1.0000e+00
+β= 19,	 pr=2.5191e-25, 	 cum-pr=2.9651e-25 	 rem-pr=1.0000e+00
+β= 20,	 pr=1.7172e-24, 	 cum-pr=2.0138e-24 	 rem-pr=1.0000e+00
+β= 21,	 pr=1.2940e-23, 	 cum-pr=1.4954e-23 	 rem-pr=1.0000e+00
+β= 22,	 pr=1.0713e-22, 	 cum-pr=1.2209e-22 	 rem-pr=1.0000e+00
+β= 23,	 pr=1.2750e-21, 	 cum-pr=1.3970e-21 	 rem-pr=1.0000e+00
+β= 24,	 pr=1.6336e-20, 	 cum-pr=1.7733e-20 	 rem-pr=1.0000e+00
+β= 25,	 pr=1.9559e-19, 	 cum-pr=2.1333e-19 	 rem-pr=1.0000e+00
+β= 26,	 pr=2.0304e-18, 	 cum-pr=2.2438e-18 	 rem-pr=1.0000e+00
+β= 27,	 pr=1.8079e-17, 	 cum-pr=2.0323e-17 	 rem-pr=1.0000e+00
+β= 28,	 pr=1.7862e-16, 	 cum-pr=1.9894e-16 	 rem-pr=1.0000e+00
+β= 29,	 pr=1.9896e-15, 	 cum-pr=2.1885e-15 	 rem-pr=1.0000e+00
+β= 30,	 pr=2.3663e-14, 	 cum-pr=2.5852e-14 	 rem-pr=1.0000e+00
+β= 31,	 pr=3.0905e-13, 	 cum-pr=3.3490e-13 	 rem-pr=1.0000e+00
+β= 32,	 pr=4.0472e-12, 	 cum-pr=4.3821e-12 	 rem-pr=1.0000e+00
+β= 33,	 pr=3.7548e-11, 	 cum-pr=4.1931e-11 	 rem-pr=1.0000e+00
+β= 34,	 pr=3.4030e-10, 	 cum-pr=3.8223e-10 	 rem-pr=1.0000e+00
+β= 35,	 pr=2.1825e-09, 	 cum-pr=2.5647e-09 	 rem-pr=1.0000e+00
+β= 36,	 pr=1.2589e-08, 	 cum-pr=1.5153e-08 	 rem-pr=1.0000e+00
+β= 37,	 pr=6.5790e-08, 	 cum-pr=8.0943e-08 	 rem-pr=1.0000e+00
+β= 38,	 pr=3.3581e-07, 	 cum-pr=4.1675e-07 	 rem-pr=1.0000e+00
+β= 39,	 pr=1.7827e-06, 	 cum-pr=2.1995e-06 	 rem-pr=1.0000e+00
+β= 40,	 pr=7.7849e-06, 	 cum-pr=9.9843e-06 	 rem-pr=9.9999e-01
+β= 41,	 pr=3.2676e-05, 	 cum-pr=4.2660e-05 	 rem-pr=9.9996e-01
+β= 42,	 pr=1.2590e-04, 	 cum-pr=1.6855e-04 	 rem-pr=9.9983e-01
+β= 43,	 pr=5.8203e-04, 	 cum-pr=7.5049e-04 	 rem-pr=9.9925e-01
+β= 44,	 pr=2.0160e-03, 	 cum-pr=2.7650e-03 	 rem-pr=9.9723e-01
+β= 45,	 pr=6.4338e-03, 	 cum-pr=9.1811e-03 	 rem-pr=9.9082e-01
+β= 46,	 pr=2.1759e-02, 	 cum-pr=3.0740e-02 	 rem-pr=9.6926e-01
+β= 47,	 pr=5.4350e-02, 	 cum-pr=8.3420e-02 	 rem-pr=9.1658e-01
+β= 48,	 pr=1.1688e-01, 	 cum-pr=1.9055e-01 	 rem-pr=8.0945e-01
+β= 49,	 pr=2.1781e-01, 	 cum-pr=3.6686e-01 	 rem-pr=6.3314e-01
+β= 50,	 pr=3.5532e-01, 	 cum-pr=5.9183e-01 	 rem-pr=4.0817e-01
+β= 51,	 pr=5.1403e-01, 	 cum-pr=8.0164e-01 	 rem-pr=1.9836e-01
+β= 52,	 pr=6.6968e-01, 	 cum-pr=9.3448e-01 	 rem-pr=6.5522e-02
+β= 53,	 pr=7.9981e-01, 	 cum-pr=9.8688e-01 	 rem-pr=1.3117e-02
+β= 54,	 pr=8.9278e-01, 	 cum-pr=9.9859e-01 	 rem-pr=1.4064e-03
+β= 55,	 pr=9.4960e-01, 	 cum-pr=9.9993e-01 	 rem-pr=7.0878e-05
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=50.00  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012507 	 β=42.48  [0m
+[0m  [0m
+β= 2,	 pr=2.2605e-39, 	 cum-pr=2.2605e-39 	 rem-pr=1.0000e+00
+β= 3,	 pr=2.7533e-36, 	 cum-pr=2.7556e-36 	 rem-pr=1.0000e+00
+β= 4,	 pr=1.0927e-34, 	 cum-pr=1.1202e-34 	 rem-pr=1.0000e+00
+β= 5,	 pr=1.2561e-33, 	 cum-pr=1.3681e-33 	 rem-pr=1.0000e+00
+β= 6,	 pr=7.8949e-33, 	 cum-pr=9.2630e-33 	 rem-pr=1.0000e+00
+β= 7,	 pr=3.4890e-32, 	 cum-pr=4.4153e-32 	 rem-pr=1.0000e+00
+β= 8,	 pr=1.2672e-31, 	 cum-pr=1.7087e-31 	 rem-pr=1.0000e+00
+β= 9,	 pr=4.1114e-31, 	 cum-pr=5.8201e-31 	 rem-pr=1.0000e+00
+β= 10,	 pr=1.2392e-30, 	 cum-pr=1.8212e-30 	 rem-pr=1.0000e+00
+β= 11,	 pr=3.6989e-30, 	 cum-pr=5.5201e-30 	 rem-pr=1.0000e+00
+β= 12,	 pr=1.1343e-29, 	 cum-pr=1.6863e-29 	 rem-pr=1.0000e+00
+β= 13,	 pr=3.6493e-29, 	 cum-pr=5.3356e-29 	 rem-pr=1.0000e+00
+β= 14,	 pr=1.2208e-28, 	 cum-pr=1.7544e-28 	 rem-pr=1.0000e+00
+β= 15,	 pr=4.8595e-28, 	 cum-pr=6.6138e-28 	 rem-pr=1.0000e+00
+β= 16,	 pr=2.0975e-27, 	 cum-pr=2.7588e-27 	 rem-pr=1.0000e+00
+β= 17,	 pr=1.0298e-26, 	 cum-pr=1.3057e-26 	 rem-pr=1.0000e+00
+β= 18,	 pr=6.0710e-26, 	 cum-pr=7.3767e-26 	 rem-pr=1.0000e+00
+β= 19,	 pr=4.1282e-25, 	 cum-pr=4.8658e-25 	 rem-pr=1.0000e+00
+β= 20,	 pr=2.7851e-24, 	 cum-pr=3.2717e-24 	 rem-pr=1.0000e+00
+β= 21,	 pr=2.0958e-23, 	 cum-pr=2.4229e-23 	 rem-pr=1.0000e+00
+β= 22,	 pr=1.7371e-22, 	 cum-pr=1.9794e-22 	 rem-pr=1.0000e+00
+β= 23,	 pr=2.0565e-21, 	 cum-pr=2.2544e-21 	 rem-pr=1.0000e+00
+β= 24,	 pr=2.6016e-20, 	 cum-pr=2.8270e-20 	 rem-pr=1.0000e+00
+β= 25,	 pr=3.0569e-19, 	 cum-pr=3.3396e-19 	 rem-pr=1.0000e+00
+β= 26,	 pr=3.1180e-18, 	 cum-pr=3.4520e-18 	 rem-pr=1.0000e+00
+β= 27,	 pr=2.7561e-17, 	 cum-pr=3.1013e-17 	 rem-pr=1.0000e+00
+β= 28,	 pr=2.7222e-16, 	 cum-pr=3.0324e-16 	 rem-pr=1.0000e+00
+β= 29,	 pr=3.0250e-15, 	 cum-pr=3.3282e-15 	 rem-pr=1.0000e+00
+β= 30,	 pr=3.5732e-14, 	 cum-pr=3.9060e-14 	 rem-pr=1.0000e+00
+β= 31,	 pr=4.6108e-13, 	 cum-pr=5.0014e-13 	 rem-pr=1.0000e+00
+β= 32,	 pr=5.9298e-12, 	 cum-pr=6.4299e-12 	 rem-pr=1.0000e+00
+β= 33,	 pr=5.3715e-11, 	 cum-pr=6.0145e-11 	 rem-pr=1.0000e+00
+β= 34,	 pr=4.7395e-10, 	 cum-pr=5.3410e-10 	 rem-pr=1.0000e+00
+β= 35,	 pr=2.9594e-09, 	 cum-pr=3.4935e-09 	 rem-pr=1.0000e+00
+β= 36,	 pr=1.6744e-08, 	 cum-pr=2.0238e-08 	 rem-pr=1.0000e+00
+β= 37,	 pr=8.6704e-08, 	 cum-pr=1.0694e-07 	 rem-pr=1.0000e+00
+β= 38,	 pr=4.4076e-07, 	 cum-pr=5.4770e-07 	 rem-pr=1.0000e+00
+β= 39,	 pr=2.3288e-06, 	 cum-pr=2.8765e-06 	 rem-pr=1.0000e+00
+β= 40,	 pr=1.0115e-05, 	 cum-pr=1.2991e-05 	 rem-pr=9.9999e-01
+β= 41,	 pr=4.2152e-05, 	 cum-pr=5.5143e-05 	 rem-pr=9.9994e-01
+β= 42,	 pr=1.6099e-04, 	 cum-pr=2.1612e-04 	 rem-pr=9.9978e-01
+β= 43,	 pr=7.3411e-04, 	 cum-pr=9.5007e-04 	 rem-pr=9.9905e-01
+β= 44,	 pr=2.5080e-03, 	 cum-pr=3.4557e-03 	 rem-pr=9.9654e-01
+β= 45,	 pr=7.8750e-03, 	 cum-pr=1.1303e-02 	 rem-pr=9.8870e-01
+β= 46,	 pr=2.6048e-02, 	 cum-pr=3.7057e-02 	 rem-pr=9.6294e-01
+β= 47,	 pr=6.3710e-02, 	 cum-pr=9.8406e-02 	 rem-pr=9.0159e-01
+β= 48,	 pr=1.3401e-01, 	 cum-pr=2.1923e-01 	 rem-pr=7.8077e-01
+β= 49,	 pr=2.4411e-01, 	 cum-pr=4.0983e-01 	 rem-pr=5.9017e-01
+β= 50,	 pr=3.8931e-01, 	 cum-pr=6.3959e-01 	 rem-pr=3.6041e-01
+β= 51,	 pr=5.5111e-01, 	 cum-pr=8.3821e-01 	 rem-pr=1.6179e-01
+β= 52,	 pr=7.0394e-01, 	 cum-pr=9.5210e-01 	 rem-pr=4.7898e-02
+β= 53,	 pr=8.2668e-01, 	 cum-pr=9.9170e-01 	 rem-pr=8.3018e-03
+β= 54,	 pr=9.1070e-01, 	 cum-pr=9.9926e-01 	 rem-pr=7.4139e-04
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=49.80  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012473 	 β=43.24  [0m
+[0m  [0m
+β= 2,	 pr=2.7848e-39, 	 cum-pr=2.7848e-39 	 rem-pr=1.0000e+00
+β= 3,	 pr=3.3507e-36, 	 cum-pr=3.3535e-36 	 rem-pr=1.0000e+00
+β= 4,	 pr=1.3216e-34, 	 cum-pr=1.3552e-34 	 rem-pr=1.0000e+00
+β= 5,	 pr=1.5134e-33, 	 cum-pr=1.6490e-33 	 rem-pr=1.0000e+00
+β= 6,	 pr=9.4864e-33, 	 cum-pr=1.1135e-32 	 rem-pr=1.0000e+00
+β= 7,	 pr=4.1836e-32, 	 cum-pr=5.2972e-32 	 rem-pr=1.0000e+00
+β= 8,	 pr=1.5170e-31, 	 cum-pr=2.0467e-31 	 rem-pr=1.0000e+00
+β= 9,	 pr=4.9149e-31, 	 cum-pr=6.9616e-31 	 rem-pr=1.0000e+00
+β= 10,	 pr=1.4796e-30, 	 cum-pr=2.1758e-30 	 rem-pr=1.0000e+00
+β= 11,	 pr=4.4121e-30, 	 cum-pr=6.5879e-30 	 rem-pr=1.0000e+00
+β= 12,	 pr=1.3515e-29, 	 cum-pr=2.0103e-29 	 rem-pr=1.0000e+00
+β= 13,	 pr=4.3444e-29, 	 cum-pr=6.3547e-29 	 rem-pr=1.0000e+00
+β= 14,	 pr=1.4521e-28, 	 cum-pr=2.0875e-28 	 rem-pr=1.0000e+00
+β= 15,	 pr=5.7771e-28, 	 cum-pr=7.8647e-28 	 rem-pr=1.0000e+00
+β= 16,	 pr=2.4883e-27, 	 cum-pr=3.2747e-27 	 rem-pr=1.0000e+00
+β= 17,	 pr=1.2217e-26, 	 cum-pr=1.5492e-26 	 rem-pr=1.0000e+00
+β= 18,	 pr=7.2001e-26, 	 cum-pr=8.7493e-26 	 rem-pr=1.0000e+00
+β= 19,	 pr=4.8807e-25, 	 cum-pr=5.7556e-25 	 rem-pr=1.0000e+00
+β= 20,	 pr=3.2814e-24, 	 cum-pr=3.8569e-24 	 rem-pr=1.0000e+00
+β= 21,	 pr=2.4684e-23, 	 cum-pr=2.8541e-23 	 rem-pr=1.0000e+00
+β= 22,	 pr=2.0466e-22, 	 cum-pr=2.3320e-22 	 rem-pr=1.0000e+00
+β= 23,	 pr=2.4183e-21, 	 cum-pr=2.6515e-21 	 rem-pr=1.0000e+00
+β= 24,	 pr=3.0457e-20, 	 cum-pr=3.3109e-20 	 rem-pr=1.0000e+00
+β= 25,	 pr=3.5559e-19, 	 cum-pr=3.8870e-19 	 rem-pr=1.0000e+00
+β= 26,	 pr=3.6058e-18, 	 cum-pr=3.9945e-18 	 rem-pr=1.0000e+00
+β= 27,	 pr=3.1800e-17, 	 cum-pr=3.5794e-17 	 rem-pr=1.0000e+00
+β= 28,	 pr=3.1406e-16, 	 cum-pr=3.4985e-16 	 rem-pr=1.0000e+00
+β= 29,	 pr=3.4867e-15, 	 cum-pr=3.8366e-15 	 rem-pr=1.0000e+00
+β= 30,	 pr=4.1086e-14, 	 cum-pr=4.4923e-14 	 rem-pr=1.0000e+00
+β= 31,	 pr=5.2795e-13, 	 cum-pr=5.7288e-13 	 rem-pr=1.0000e+00
+β= 32,	 pr=6.7473e-12, 	 cum-pr=7.3202e-12 	 rem-pr=1.0000e+00
+β= 33,	 pr=6.0620e-11, 	 cum-pr=6.7940e-11 	 rem-pr=1.0000e+00
+β= 34,	 pr=5.3001e-10, 	 cum-pr=5.9795e-10 	 rem-pr=1.0000e+00
+β= 35,	 pr=3.2797e-09, 	 cum-pr=3.8777e-09 	 rem-pr=1.0000e+00
+β= 36,	 pr=1.8440e-08, 	 cum-pr=2.2318e-08 	 rem-pr=1.0000e+00
+β= 37,	 pr=9.5205e-08, 	 cum-pr=1.1752e-07 	 rem-pr=1.0000e+00
+β= 38,	 pr=4.8331e-07, 	 cum-pr=6.0083e-07 	 rem-pr=1.0000e+00
+β= 39,	 pr=2.5494e-06, 	 cum-pr=3.1502e-06 	 rem-pr=1.0000e+00
+β= 40,	 pr=1.1052e-05, 	 cum-pr=1.4202e-05 	 rem-pr=9.9999e-01
+β= 41,	 pr=4.5942e-05, 	 cum-pr=6.0144e-05 	 rem-pr=9.9994e-01
+β= 42,	 pr=1.7493e-04, 	 cum-pr=2.3506e-04 	 rem-pr=9.9976e-01
+β= 43,	 pr=7.9389e-04, 	 cum-pr=1.0288e-03 	 rem-pr=9.9897e-01
+β= 44,	 pr=2.6993e-03, 	 cum-pr=3.7253e-03 	 rem-pr=9.9627e-01
+β= 45,	 pr=8.4283e-03, 	 cum-pr=1.2122e-02 	 rem-pr=9.8788e-01
+β= 46,	 pr=2.7665e-02, 	 cum-pr=3.9452e-02 	 rem-pr=9.6055e-01
+β= 47,	 pr=6.7178e-02, 	 cum-pr=1.0398e-01 	 rem-pr=8.9602e-01
+β= 48,	 pr=1.4024e-01, 	 cum-pr=2.2963e-01 	 rem-pr=7.7037e-01
+β= 49,	 pr=2.5347e-01, 	 cum-pr=4.2490e-01 	 rem-pr=5.7510e-01
+β= 50,	 pr=4.0114e-01, 	 cum-pr=6.5559e-01 	 rem-pr=3.4441e-01
+β= 51,	 pr=5.6369e-01, 	 cum-pr=8.4973e-01 	 rem-pr=1.5027e-01
+β= 52,	 pr=7.1525e-01, 	 cum-pr=9.5721e-01 	 rem-pr=4.2788e-02
+β= 53,	 pr=8.3530e-01, 	 cum-pr=9.9295e-01 	 rem-pr=7.0471e-03
+β= 54,	 pr=9.1627e-01, 	 cum-pr=9.9941e-01 	 rem-pr=5.9002e-04
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=49.73  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+β= 2,	 pr=8.8855e-40, 	 cum-pr=8.8855e-40 	 rem-pr=1.0000e+00
+β= 3,	 pr=1.1429e-36, 	 cum-pr=1.1438e-36 	 rem-pr=1.0000e+00
+β= 4,	 pr=4.6619e-35, 	 cum-pr=4.7763e-35 	 rem-pr=1.0000e+00
+β= 5,	 pr=5.4523e-34, 	 cum-pr=5.9299e-34 	 rem-pr=1.0000e+00
+β= 6,	 pr=3.4689e-33, 	 cum-pr=4.0619e-33 	 rem-pr=1.0000e+00
+β= 7,	 pr=1.5473e-32, 	 cum-pr=1.9535e-32 	 rem-pr=1.0000e+00
+β= 8,	 pr=5.6617e-32, 	 cum-pr=7.6152e-32 	 rem-pr=1.0000e+00
+β= 9,	 pr=1.8483e-31, 	 cum-pr=2.6098e-31 	 rem-pr=1.0000e+00
+β= 10,	 pr=5.6007e-31, 	 cum-pr=8.2105e-31 	 rem-pr=1.0000e+00
+β= 11,	 pr=1.6794e-30, 	 cum-pr=2.5005e-30 	 rem-pr=1.0000e+00
+β= 12,	 pr=5.1754e-30, 	 cum-pr=7.6758e-30 	 rem-pr=1.0000e+00
+β= 13,	 pr=1.6712e-29, 	 cum-pr=2.4388e-29 	 rem-pr=1.0000e+00
+β= 14,	 pr=5.6144e-29, 	 cum-pr=8.0531e-29 	 rem-pr=1.0000e+00
+β= 15,	 pr=2.2389e-28, 	 cum-pr=3.0442e-28 	 rem-pr=1.0000e+00
+β= 16,	 pr=9.7569e-28, 	 cum-pr=1.2801e-27 	 rem-pr=1.0000e+00
+β= 17,	 pr=4.7908e-27, 	 cum-pr=6.0709e-27 	 rem-pr=1.0000e+00
+β= 18,	 pr=2.8272e-26, 	 cum-pr=3.4343e-26 	 rem-pr=1.0000e+00
+β= 19,	 pr=1.9486e-25, 	 cum-pr=2.2921e-25 	 rem-pr=1.0000e+00
+β= 20,	 pr=1.3357e-24, 	 cum-pr=1.5649e-24 	 rem-pr=1.0000e+00
+β= 21,	 pr=1.0074e-23, 	 cum-pr=1.1639e-23 	 rem-pr=1.0000e+00
+β= 22,	 pr=8.3347e-23, 	 cum-pr=9.4986e-23 	 rem-pr=1.0000e+00
+β= 23,	 pr=9.9439e-22, 	 cum-pr=1.0894e-21 	 rem-pr=1.0000e+00
+β= 24,	 pr=1.2824e-20, 	 cum-pr=1.3913e-20 	 rem-pr=1.0000e+00
+β= 25,	 pr=1.5503e-19, 	 cum-pr=1.6894e-19 	 rem-pr=1.0000e+00
+β= 26,	 pr=1.6244e-18, 	 cum-pr=1.7933e-18 	 rem-pr=1.0000e+00
+β= 27,	 pr=1.4523e-17, 	 cum-pr=1.6316e-17 	 rem-pr=1.0000e+00
+β= 28,	 pr=1.4351e-16, 	 cum-pr=1.5983e-16 	 rem-pr=1.0000e+00
+β= 29,	 pr=1.6003e-15, 	 cum-pr=1.7601e-15 	 rem-pr=1.0000e+00
+β= 30,	 pr=1.9098e-14, 	 cum-pr=2.0858e-14 	 rem-pr=1.0000e+00
+β= 31,	 pr=2.5094e-13, 	 cum-pr=2.7179e-13 	 rem-pr=1.0000e+00
+β= 32,	 pr=3.3165e-12, 	 cum-pr=3.5883e-12 	 rem-pr=1.0000e+00
+β= 33,	 pr=3.1147e-11, 	 cum-pr=3.4735e-11 	 rem-pr=1.0000e+00
+β= 34,	 pr=2.8620e-10, 	 cum-pr=3.2094e-10 	 rem-pr=1.0000e+00
+β= 35,	 pr=1.8615e-09, 	 cum-pr=2.1824e-09 	 rem-pr=1.0000e+00
+β= 36,	 pr=1.0849e-08, 	 cum-pr=1.3031e-08 	 rem-pr=1.0000e+00
+β= 37,	 pr=5.6989e-08, 	 cum-pr=7.0020e-08 	 rem-pr=1.0000e+00
+β= 38,	 pr=2.9152e-07, 	 cum-pr=3.6155e-07 	 rem-pr=1.0000e+00
+β= 39,	 pr=1.5513e-06, 	 cum-pr=1.9128e-06 	 rem-pr=1.0000e+00
+β= 40,	 pr=6.7925e-06, 	 cum-pr=8.7053e-06 	 rem-pr=9.9999e-01
+β= 41,	 pr=2.8614e-05, 	 cum-pr=3.7319e-05 	 rem-pr=9.9996e-01
+β= 42,	 pr=1.1073e-04, 	 cum-pr=1.4805e-04 	 rem-pr=9.9985e-01
+β= 43,	 pr=5.1551e-04, 	 cum-pr=6.6348e-04 	 rem-pr=9.9934e-01
+β= 44,	 pr=1.7981e-03, 	 cum-pr=2.4604e-03 	 rem-pr=9.9754e-01
+β= 45,	 pr=5.7860e-03, 	 cum-pr=8.2322e-03 	 rem-pr=9.9177e-01
+β= 46,	 pr=1.9791e-02, 	 cum-pr=2.7860e-02 	 rem-pr=9.7214e-01
+β= 47,	 pr=4.9968e-02, 	 cum-pr=7.6436e-02 	 rem-pr=9.2356e-01
+β= 48,	 pr=1.0869e-01, 	 cum-pr=1.7682e-01 	 rem-pr=8.2318e-01
+β= 49,	 pr=2.0492e-01, 	 cum-pr=3.4550e-01 	 rem-pr=6.5450e-01
+β= 50,	 pr=3.3822e-01, 	 cum-pr=5.6687e-01 	 rem-pr=4.3313e-01
+β= 51,	 pr=4.9484e-01, 	 cum-pr=7.8120e-01 	 rem-pr=2.1880e-01
+β= 52,	 pr=6.5142e-01, 	 cum-pr=9.2373e-01 	 rem-pr=7.6269e-02
+β= 53,	 pr=7.8504e-01, 	 cum-pr=9.8361e-01 	 rem-pr=1.6395e-02
+β= 54,	 pr=8.8259e-01, 	 cum-pr=9.9808e-01 	 rem-pr=1.9250e-03
+β= 55,	 pr=9.4361e-01, 	 cum-pr=9.9989e-01 	 rem-pr=1.0855e-04
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=50.11  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+[0m Running BKZ-2 [0m [0m Running BKZ-2 [0m [0m Running BKZ-2 [0m [0m Running BKZ-3 [0m [0m Running BKZ-3 [0m [0m Running BKZ-4 [0m [0m Running BKZ-5 [0m [0m Running BKZ-4 [0m [0m Running BKZ-5 [0m [0m Running BKZ-6 [0m [0m Running BKZ-6 [0m [0m Running BKZ-7 [0m [0m Running BKZ-7 [0m [0m Running BKZ-8 [0m [0m Running BKZ-8 [0m [0m Running BKZ-9 [0m [0m Running BKZ-9 [0m [0m Running BKZ-10 [0m [0m Running BKZ-10 [0m [0m Running BKZ-11 [0m [0m Running BKZ-11 [0m [0m Running BKZ-12 [0m [0m Running BKZ-3 [0m [0m Running BKZ-12 [0m [0m Running BKZ-13 [0m [0m Running BKZ-4 [0m [0m Running BKZ-13 [0m [0m Running BKZ-14 [0m [0m Running BKZ-5 [0m [0m Running BKZ-14 [0m [0m Running BKZ-6 [0m [0m Running BKZ-15 [0m [0m Running BKZ-7 [0m [0m Running BKZ-15 [0m [0m Running BKZ-16 [0m [0m Running BKZ-8 [0m [0m Running BKZ-16 [0m [0m Running BKZ-17 [0m [0m Running BKZ-2 [0m [0m Running BKZ-9 [0m [0m Running BKZ-2 [0m [0m Running BKZ-17 [0m [0m Running BKZ-18 [0m [0m Running BKZ-10 [0m [0m Running BKZ-18 [0m [0m Running BKZ-19 [0m [0m Running BKZ-11 [0m [0m Running BKZ-19 [0m [0m Running BKZ-20 [0m [0m Running BKZ-12 [0m [0m Running BKZ-20 [0m [0m Running BKZ-21 [0m [0m Running BKZ-13 [0m [0m Running BKZ-14 [0m [0m Running BKZ-21 [0m [0m Running BKZ-22 [0m [0m Running BKZ-15 [0m [0m Running BKZ-22 [0m [0m Running BKZ-23 [0m [0m Running BKZ-16 [0m [0m Running BKZ-3 [0m [0m Running BKZ-3 [0m [0m Running BKZ-23 [0m [0m Running BKZ-17 [0m [0m Running BKZ-24 [0m [0m Running BKZ-4 [0m [0m Running BKZ-18 [0m [0m Running BKZ-4 [0m [0m Running BKZ-24 [0m [0m Running BKZ-25 [0m [0m Running BKZ-5 [0m [0m Running BKZ-5 [0m [0m Running BKZ-19 [0m [0m Running BKZ-25 [0m [0m Running BKZ-6 [0m [0m Running BKZ-26 [0m [0m Running BKZ-6 [0m [0m Running BKZ-20 [0m [0m Running BKZ-7 [0m error
+[4;37m      Build EBDD from LWE      [0m
+[1;33m n=128 	 m=128 	 q=3329 [0m
+[0m Running BKZ-7 [0m [0m Running BKZ-26 [0m [0m Running BKZ-27 [0m [4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012119 	 β=49.40  [0m
+[0m  [0m
+[0m Running BKZ-8 [0m [0m Running BKZ-8 [0m [0m Running BKZ-27 [0m [0m Running BKZ-28 [0m [0m Running BKZ-9 [0m [0m Running BKZ-9 [0m [0m Running BKZ-10 [0m [0m Running BKZ-28 [0m [0m Running BKZ-29 [0m [0m Running BKZ-10 [0m [0m Running BKZ-11 [0m [0m Running BKZ-11 [0m [0m Running BKZ-29 [0m [0m Running BKZ-30 [0m [0m Running BKZ-12 [0m [0m Running BKZ-12 [0m β= 2,	 pr=5.9861e-44, 	 cum-pr=5.9861e-44 	 rem-pr=1.0000e+00
+β= 3,	 pr=1.3339e-40, 	 cum-pr=1.3345e-40 	 rem-pr=1.0000e+00
+β= 4,	 pr=7.1719e-39, 	 cum-pr=7.3054e-39 	 rem-pr=1.0000e+00
+β= 5,	 pr=9.9782e-38, 	 cum-pr=1.0709e-37 	 rem-pr=1.0000e+00
+β= 6,	 pr=7.1767e-37, 	 cum-pr=8.2476e-37 	 rem-pr=1.0000e+00
+β= 7,	 pr=3.5142e-36, 	 cum-pr=4.3390e-36 	 rem-pr=1.0000e+00
+β= 8,	 pr=1.3859e-35, 	 cum-pr=1.8198e-35 	 rem-pr=1.0000e+00
+β= 9,	 pr=4.8161e-35, 	 cum-pr=6.6359e-35 	 rem-pr=1.0000e+00
+β= 10,	 pr=1.5391e-34, 	 cum-pr=2.2027e-34 	 rem-pr=1.0000e+00
+β= 11,	 pr=4.8422e-34, 	 cum-pr=7.0449e-34 	 rem-pr=1.0000e+00
+β= 12,	 pr=1.5680e-33, 	 cum-pr=2.2725e-33 	 rem-pr=1.0000e+00
+β= 13,	 pr=5.2008e-33, 	 cum-pr=7.4733e-33 	 rem-pr=1.0000e+00
+β= 14,	 pr=1.8554e-32, 	 cum-pr=2.6028e-32 	 rem-pr=1.0000e+00
+β= 15,	 pr=7.4084e-32, 	 cum-pr=1.0011e-31 	 rem-pr=1.0000e+00
+β= 16,	 pr=3.5144e-31, 	 cum-pr=4.5156e-31 	 rem-pr=1.0000e+00
+β= 17,	 pr=1.8098e-30, 	 cum-pr=2.2613e-30 	 rem-pr=1.0000e+00
+β= 18,	 pr=1.0442e-29, 	 cum-pr=1.2703e-29 	 rem-pr=1.0000e+00
+β= 19,	 pr=7.8490e-29, 	 cum-pr=9.1193e-29 	 rem-pr=1.0000e+00
+β= 20,	 pr=6.4021e-28, 	 cum-pr=7.3140e-28 	 rem-pr=1.0000e+00
+β= 21,	 pr=5.3173e-27, 	 cum-pr=6.0487e-27 	 rem-pr=1.0000e+00
+β= 22,	 pr=4.2968e-26, 	 cum-pr=4.9017e-26 	 rem-pr=1.0000e+00
+β= 23,	 pr=5.2357e-25, 	 cum-pr=5.7259e-25 	 rem-pr=1.0000e+00
+β= 24,	 pr=7.7057e-24, 	 cum-pr=8.2783e-24 	 rem-pr=1.0000e+00
+β= 25,	 pr=1.1905e-22, 	 cum-pr=1.2732e-22 	 rem-pr=1.0000e+00
+β= 26,	 pr=1.6830e-21, 	 cum-pr=1.8104e-21 	 rem-pr=1.0000e+00
+β= 27,	 pr=1.8692e-20, 	 cum-pr=2.0503e-20 	 rem-pr=1.0000e+00
+β= 28,	 pr=1.9502e-19, 	 cum-pr=2.1553e-19 	 rem-pr=1.0000e+00
+β= 29,	 pr=2.1878e-18, 	 cum-pr=2.4034e-18 	 rem-pr=1.0000e+00
+β= 30,	 pr=2.7542e-17, 	 cum-pr=2.9945e-17 	 rem-pr=1.0000e+00
+β= 31,	 pr=4.0960e-16, 	 cum-pr=4.3954e-16 	 rem-pr=1.0000e+00
+β= 32,	 pr=6.6776e-15, 	 cum-pr=7.1171e-15 	 rem-pr=1.0000e+00
+β= 33,	 pr=8.4669e-14, 	 cum-pr=9.1786e-14 	 rem-pr=1.0000e+00
+β= 34,	 pr=1.1201e-12, 	 cum-pr=1.2119e-12 	 rem-pr=1.0000e+00
+β= 35,	 pr=1.1084e-11, 	 cum-pr=1.2296e-11 	 rem-pr=1.0000e+00
+β= 36,	 pr=9.5031e-11, 	 cum-pr=1.0733e-10 	 rem-pr=1.0000e+00
+β= 37,	 pr=6.5653e-10, 	 cum-pr=7.6386e-10 	 rem-pr=1.0000e+00
+β= 38,	 pr=3.8364e-09, 	 cum-pr=4.6003e-09 	 rem-pr=1.0000e+00
+β= 39,	 pr=2.1832e-08, 	 cum-pr=2.6433e-08 	 rem-pr=1.0000e+00
+β= 40,	 pr=1.0086e-07, 	 cum-pr=1.2729e-07 	 rem-pr=1.0000e+00
+β= 41,	 pr=4.5789e-07, 	 cum-pr=5.8518e-07 	 rem-pr=1.0000e+00
+β= 42,	 pr=1.9505e-06, 	 cum-pr=2.5357e-06 	 rem-pr=1.0000e+00
+β= 43,	 pr=1.0677e-05, 	 cum-pr=1.3212e-05 	 rem-pr=9.9999e-01
+β= 44,	 pr=4.3851e-05, 	 cum-pr=5.7062e-05 	 rem-pr=9.9994e-01
+β= 45,	 pr=1.7188e-04, 	 cum-pr=2.2893e-04 	 rem-pr=9.9977e-01
+β= 46,	 pr=7.7774e-04, 	 cum-pr=1.0065e-03 	 rem-pr=9.9899e-01
+β= 47,	 pr=2.5662e-03, 	 cum-pr=3.5701e-03 	 rem-pr=9.9643e-01
+β= 48,	 pr=7.4510e-03, 	 cum-pr=1.0995e-02 	 rem-pr=9.8901e-01
+β= 49,	 pr=1.9066e-02, 	 cum-pr=2.9851e-02 	 rem-pr=9.7015e-01
+β= 50,	 pr=4.3193e-02, 	 cum-pr=7.1755e-02 	 rem-pr=9.2825e-01
+β= 51,	 pr=8.7109e-02, 	 cum-pr=1.5261e-01 	 rem-pr=8.4739e-01
+β= 52,	 pr=1.5740e-01, 	 cum-pr=2.8599e-01 	 rem-pr=7.1401e-01
+β= 53,	 pr=2.5665e-01, 	 cum-pr=4.6924e-01 	 rem-pr=5.3076e-01
+β= 54,	 pr=3.8063e-01, 	 cum-pr=6.7127e-01 	 rem-pr=3.2873e-01
+β= 55,	 pr=5.1794e-01, 	 cum-pr=8.4153e-01 	 rem-pr=1.5847e-01
+β= 56,	 pr=6.5299e-01, 	 cum-pr=9.4501e-01 	 rem-pr=5.4991e-02
+β= 57,	 pr=7.7097e-01, 	 cum-pr=9.8741e-01 	 rem-pr=1.2594e-02
+β= 58,	 pr=8.6251e-01, 	 cum-pr=9.9827e-01 	 rem-pr=1.7317e-03
+β= 59,	 pr=9.2547e-01, 	 cum-pr=9.9987e-01 	 rem-pr=1.2905e-04
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=53.53  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+[0m Running BKZ-13 [0m [0m Running BKZ-30 [0m [0m Running BKZ-31 [0m [0m Running BKZ-13 [0m [0m Running BKZ-14 [0m error
+[4;37m      Build EBDD from LWE      [0m
+[1;33m n=128 	 m=128 	 q=3329 [0m
+[0m Running BKZ-14 [0m [0m Running BKZ-31 [0m [4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012119 	 β=49.40  [0m
+[0m  [0m
+[0m Running BKZ-15 [0m [0m Running BKZ-15 [0m [0m Running BKZ-16 [0m [0m Running BKZ-16 [0m [0m Running BKZ-32 [0m [0m Running BKZ-17 [0m [0m Running BKZ-17 [0m [0m Running BKZ-33 [0m [0m Running BKZ-18 [0m [0m Running BKZ-18 [0m β= 2,	 pr=5.9861e-44, 	 cum-pr=5.9861e-44 	 rem-pr=1.0000e+00
+β= 3,	 pr=1.3339e-40, 	 cum-pr=1.3345e-40 	 rem-pr=1.0000e+00
+β= 4,	 pr=7.1719e-39, 	 cum-pr=7.3054e-39 	 rem-pr=1.0000e+00
+β= 5,	 pr=9.9782e-38, 	 cum-pr=1.0709e-37 	 rem-pr=1.0000e+00
+β= 6,	 pr=7.1767e-37, 	 cum-pr=8.2476e-37 	 rem-pr=1.0000e+00
+β= 7,	 pr=3.5142e-36, 	 cum-pr=4.3390e-36 	 rem-pr=1.0000e+00
+β= 8,	 pr=1.3859e-35, 	 cum-pr=1.8198e-35 	 rem-pr=1.0000e+00
+β= 9,	 pr=4.8161e-35, 	 cum-pr=6.6359e-35 	 rem-pr=1.0000e+00
+β= 10,	 pr=1.5391e-34, 	 cum-pr=2.2027e-34 	 rem-pr=1.0000e+00
+β= 11,	 pr=4.8422e-34, 	 cum-pr=7.0449e-34 	 rem-pr=1.0000e+00
+β= 12,	 pr=1.5680e-33, 	 cum-pr=2.2725e-33 	 rem-pr=1.0000e+00
+β= 13,	 pr=5.2008e-33, 	 cum-pr=7.4733e-33 	 rem-pr=1.0000e+00
+β= 14,	 pr=1.8554e-32, 	 cum-pr=2.6028e-32 	 rem-pr=1.0000e+00
+β= 15,	 pr=7.4084e-32, 	 cum-pr=1.0011e-31 	 rem-pr=1.0000e+00
+β= 16,	 pr=3.5144e-31, 	 cum-pr=4.5156e-31 	 rem-pr=1.0000e+00
+β= 17,	 pr=1.8098e-30, 	 cum-pr=2.2613e-30 	 rem-pr=1.0000e+00
+β= 18,	 pr=1.0442e-29, 	 cum-pr=1.2703e-29 	 rem-pr=1.0000e+00
+β= 19,	 pr=7.8490e-29, 	 cum-pr=9.1193e-29 	 rem-pr=1.0000e+00
+β= 20,	 pr=6.4021e-28, 	 cum-pr=7.3140e-28 	 rem-pr=1.0000e+00
+β= 21,	 pr=5.3173e-27, 	 cum-pr=6.0487e-27 	 rem-pr=1.0000e+00
+β= 22,	 pr=4.2968e-26, 	 cum-pr=4.9017e-26 	 rem-pr=1.0000e+00
+β= 23,	 pr=5.2357e-25, 	 cum-pr=5.7259e-25 	 rem-pr=1.0000e+00
+β= 24,	 pr=7.7057e-24, 	 cum-pr=8.2783e-24 	 rem-pr=1.0000e+00
+β= 25,	 pr=1.1905e-22, 	 cum-pr=1.2732e-22 	 rem-pr=1.0000e+00
+β= 26,	 pr=1.6830e-21, 	 cum-pr=1.8104e-21 	 rem-pr=1.0000e+00
+β= 27,	 pr=1.8692e-20, 	 cum-pr=2.0503e-20 	 rem-pr=1.0000e+00
+β= 28,	 pr=1.9502e-19, 	 cum-pr=2.1553e-19 	 rem-pr=1.0000e+00
+β= 29,	 pr=2.1878e-18, 	 cum-pr=2.4034e-18 	 rem-pr=1.0000e+00
+β= 30,	 pr=2.7542e-17, 	 cum-pr=2.9945e-17 	 rem-pr=1.0000e+00
+β= 31,	 pr=4.0960e-16, 	 cum-pr=4.3954e-16 	 rem-pr=1.0000e+00
+β= 32,	 pr=6.6776e-15, 	 cum-pr=7.1171e-15 	 rem-pr=1.0000e+00
+β= 33,	 pr=8.4669e-14, 	 cum-pr=9.1786e-14 	 rem-pr=1.0000e+00
+β= 34,	 pr=1.1201e-12, 	 cum-pr=1.2119e-12 	 rem-pr=1.0000e+00
+β= 35,	 pr=1.1084e-11, 	 cum-pr=1.2296e-11 	 rem-pr=1.0000e+00
+β= 36,	 pr=9.5031e-11, 	 cum-pr=1.0733e-10 	 rem-pr=1.0000e+00
+β= 37,	 pr=6.5653e-10, 	 cum-pr=7.6386e-10 	 rem-pr=1.0000e+00
+β= 38,	 pr=3.8364e-09, 	 cum-pr=4.6003e-09 	 rem-pr=1.0000e+00
+β= 39,	 pr=2.1832e-08, 	 cum-pr=2.6433e-08 	 rem-pr=1.0000e+00
+β= 40,	 pr=1.0086e-07, 	 cum-pr=1.2729e-07 	 rem-pr=1.0000e+00
+β= 41,	 pr=4.5789e-07, 	 cum-pr=5.8518e-07 	 rem-pr=1.0000e+00
+β= 42,	 pr=1.9505e-06, 	 cum-pr=2.5357e-06 	 rem-pr=1.0000e+00
+β= 43,	 pr=1.0677e-05, 	 cum-pr=1.3212e-05 	 rem-pr=9.9999e-01
+β= 44,	 pr=4.3851e-05, 	 cum-pr=5.7062e-05 	 rem-pr=9.9994e-01
+β= 45,	 pr=1.7188e-04, 	 cum-pr=2.2893e-04 	 rem-pr=9.9977e-01
+β= 46,	 pr=7.7774e-04, 	 cum-pr=1.0065e-03 	 rem-pr=9.9899e-01
+β= 47,	 pr=2.5662e-03, 	 cum-pr=3.5701e-03 	 rem-pr=9.9643e-01
+β= 48,	 pr=7.4510e-03, 	 cum-pr=1.0995e-02 	 rem-pr=9.8901e-01
+β= 49,	 pr=1.9066e-02, 	 cum-pr=2.9851e-02 	 rem-pr=9.7015e-01
+β= 50,	 pr=4.3193e-02, 	 cum-pr=7.1755e-02 	 rem-pr=9.2825e-01
+β= 51,	 pr=8.7109e-02, 	 cum-pr=1.5261e-01 	 rem-pr=8.4739e-01
+β= 52,	 pr=1.5740e-01, 	 cum-pr=2.8599e-01 	 rem-pr=7.1401e-01
+β= 53,	 pr=2.5665e-01, 	 cum-pr=4.6924e-01 	 rem-pr=5.3076e-01
+β= 54,	 pr=3.8063e-01, 	 cum-pr=6.7127e-01 	 rem-pr=3.2873e-01
+β= 55,	 pr=5.1794e-01, 	 cum-pr=8.4153e-01 	 rem-pr=1.5847e-01
+β= 56,	 pr=6.5299e-01, 	 cum-pr=9.4501e-01 	 rem-pr=5.4991e-02
+β= 57,	 pr=7.7097e-01, 	 cum-pr=9.8741e-01 	 rem-pr=1.2594e-02
+β= 58,	 pr=8.6251e-01, 	 cum-pr=9.9827e-01 	 rem-pr=1.7317e-03
+β= 59,	 pr=9.2547e-01, 	 cum-pr=9.9987e-01 	 rem-pr=1.2905e-04
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=53.53  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+[0m Running BKZ-19 [0m [0m Running BKZ-19 [0m [0m Running BKZ-34 [0m [0m Running BKZ-20 [0m [0m Running BKZ-20 [0m error
+[4;37m      Build EBDD from LWE      [0m
+[1;33m n=128 	 m=128 	 q=3329 [0m
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012119 	 β=49.40  [0m
+[0m  [0m
+[0m Running BKZ-21 [0m [0m Running BKZ-35 [0m [0m Running BKZ-22 [0m [0m Running BKZ-36 [0m [0m Running BKZ-23 [0m β= 2,	 pr=5.9861e-44, 	 cum-pr=5.9861e-44 	 rem-pr=1.0000e+00
+β= 3,	 pr=1.3339e-40, 	 cum-pr=1.3345e-40 	 rem-pr=1.0000e+00
+β= 4,	 pr=7.1719e-39, 	 cum-pr=7.3054e-39 	 rem-pr=1.0000e+00
+β= 5,	 pr=9.9782e-38, 	 cum-pr=1.0709e-37 	 rem-pr=1.0000e+00
+β= 6,	 pr=7.1767e-37, 	 cum-pr=8.2476e-37 	 rem-pr=1.0000e+00
+β= 7,	 pr=3.5142e-36, 	 cum-pr=4.3390e-36 	 rem-pr=1.0000e+00
+β= 8,	 pr=1.3859e-35, 	 cum-pr=1.8198e-35 	 rem-pr=1.0000e+00
+β= 9,	 pr=4.8161e-35, 	 cum-pr=6.6359e-35 	 rem-pr=1.0000e+00
+β= 10,	 pr=1.5391e-34, 	 cum-pr=2.2027e-34 	 rem-pr=1.0000e+00
+β= 11,	 pr=4.8422e-34, 	 cum-pr=7.0449e-34 	 rem-pr=1.0000e+00
+β= 12,	 pr=1.5680e-33, 	 cum-pr=2.2725e-33 	 rem-pr=1.0000e+00
+β= 13,	 pr=5.2008e-33, 	 cum-pr=7.4733e-33 	 rem-pr=1.0000e+00
+β= 14,	 pr=1.8554e-32, 	 cum-pr=2.6028e-32 	 rem-pr=1.0000e+00
+β= 15,	 pr=7.4084e-32, 	 cum-pr=1.0011e-31 	 rem-pr=1.0000e+00
+β= 16,	 pr=3.5144e-31, 	 cum-pr=4.5156e-31 	 rem-pr=1.0000e+00
+β= 17,	 pr=1.8098e-30, 	 cum-pr=2.2613e-30 	 rem-pr=1.0000e+00
+β= 18,	 pr=1.0442e-29, 	 cum-pr=1.2703e-29 	 rem-pr=1.0000e+00
+β= 19,	 pr=7.8490e-29, 	 cum-pr=9.1193e-29 	 rem-pr=1.0000e+00
+β= 20,	 pr=6.4021e-28, 	 cum-pr=7.3140e-28 	 rem-pr=1.0000e+00
+β= 21,	 pr=5.3173e-27, 	 cum-pr=6.0487e-27 	 rem-pr=1.0000e+00
+β= 22,	 pr=4.2968e-26, 	 cum-pr=4.9017e-26 	 rem-pr=1.0000e+00
+β= 23,	 pr=5.2357e-25, 	 cum-pr=5.7259e-25 	 rem-pr=1.0000e+00
+β= 24,	 pr=7.7057e-24, 	 cum-pr=8.2783e-24 	 rem-pr=1.0000e+00
+β= 25,	 pr=1.1905e-22, 	 cum-pr=1.2732e-22 	 rem-pr=1.0000e+00
+β= 26,	 pr=1.6830e-21, 	 cum-pr=1.8104e-21 	 rem-pr=1.0000e+00
+β= 27,	 pr=1.8692e-20, 	 cum-pr=2.0503e-20 	 rem-pr=1.0000e+00
+β= 28,	 pr=1.9502e-19, 	 cum-pr=2.1553e-19 	 rem-pr=1.0000e+00
+β= 29,	 pr=2.1878e-18, 	 cum-pr=2.4034e-18 	 rem-pr=1.0000e+00
+β= 30,	 pr=2.7542e-17, 	 cum-pr=2.9945e-17 	 rem-pr=1.0000e+00
+β= 31,	 pr=4.0960e-16, 	 cum-pr=4.3954e-16 	 rem-pr=1.0000e+00
+β= 32,	 pr=6.6776e-15, 	 cum-pr=7.1171e-15 	 rem-pr=1.0000e+00
+β= 33,	 pr=8.4669e-14, 	 cum-pr=9.1786e-14 	 rem-pr=1.0000e+00
+β= 34,	 pr=1.1201e-12, 	 cum-pr=1.2119e-12 	 rem-pr=1.0000e+00
+β= 35,	 pr=1.1084e-11, 	 cum-pr=1.2296e-11 	 rem-pr=1.0000e+00
+β= 36,	 pr=9.5031e-11, 	 cum-pr=1.0733e-10 	 rem-pr=1.0000e+00
+β= 37,	 pr=6.5653e-10, 	 cum-pr=7.6386e-10 	 rem-pr=1.0000e+00
+β= 38,	 pr=3.8364e-09, 	 cum-pr=4.6003e-09 	 rem-pr=1.0000e+00
+β= 39,	 pr=2.1832e-08, 	 cum-pr=2.6433e-08 	 rem-pr=1.0000e+00
+β= 40,	 pr=1.0086e-07, 	 cum-pr=1.2729e-07 	 rem-pr=1.0000e+00
+β= 41,	 pr=4.5789e-07, 	 cum-pr=5.8518e-07 	 rem-pr=1.0000e+00
+β= 42,	 pr=1.9505e-06, 	 cum-pr=2.5357e-06 	 rem-pr=1.0000e+00
+β= 43,	 pr=1.0677e-05, 	 cum-pr=1.3212e-05 	 rem-pr=9.9999e-01
+β= 44,	 pr=4.3851e-05, 	 cum-pr=5.7062e-05 	 rem-pr=9.9994e-01
+β= 45,	 pr=1.7188e-04, 	 cum-pr=2.2893e-04 	 rem-pr=9.9977e-01
+β= 46,	 pr=7.7774e-04, 	 cum-pr=1.0065e-03 	 rem-pr=9.9899e-01
+β= 47,	 pr=2.5662e-03, 	 cum-pr=3.5701e-03 	 rem-pr=9.9643e-01
+β= 48,	 pr=7.4510e-03, 	 cum-pr=1.0995e-02 	 rem-pr=9.8901e-01
+β= 49,	 pr=1.9066e-02, 	 cum-pr=2.9851e-02 	 rem-pr=9.7015e-01
+β= 50,	 pr=4.3193e-02, 	 cum-pr=7.1755e-02 	 rem-pr=9.2825e-01
+β= 51,	 pr=8.7109e-02, 	 cum-pr=1.5261e-01 	 rem-pr=8.4739e-01
+β= 52,	 pr=1.5740e-01, 	 cum-pr=2.8599e-01 	 rem-pr=7.1401e-01
+β= 53,	 pr=2.5665e-01, 	 cum-pr=4.6924e-01 	 rem-pr=5.3076e-01
+β= 54,	 pr=3.8063e-01, 	 cum-pr=6.7127e-01 	 rem-pr=3.2873e-01
+β= 55,	 pr=5.1794e-01, 	 cum-pr=8.4153e-01 	 rem-pr=1.5847e-01
+β= 56,	 pr=6.5299e-01, 	 cum-pr=9.4501e-01 	 rem-pr=5.4991e-02
+β= 57,	 pr=7.7097e-01, 	 cum-pr=9.8741e-01 	 rem-pr=1.2594e-02
+β= 58,	 pr=8.6251e-01, 	 cum-pr=9.9827e-01 	 rem-pr=1.7317e-03
+β= 59,	 pr=9.2547e-01, 	 cum-pr=9.9987e-01 	 rem-pr=1.2905e-04
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=53.53  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+[0m Running BKZ-24 [0m [0m Running BKZ-37 [0m [0m Running BKZ-25 [0m [0m Running BKZ-38 [0m [0m Running BKZ-26 [0m [0m Running BKZ-27 [0m [0m Running BKZ-39 [0m [0m Running BKZ-28 [0m [0m Running BKZ-2 [0m [0m Running BKZ-40 [0m [0m Running BKZ-29 [0m [0m Running BKZ-30 [0m [0m Running BKZ-41 [0m [0m Running BKZ-31 [0m [0m Running BKZ-32 [0m [0m Running BKZ-42 [0m [0m Running BKZ-2 [0m [0m Running BKZ-33 [0m [0m Running BKZ-3 [0m [0m Running BKZ-43 [0m [0m Running BKZ-4 [0m [0m Running BKZ-5 [0m [0m Running BKZ-34 [0m [0m Running BKZ-6 [0m [0m Running BKZ-7 [0m [0m Running BKZ-8 [0m [0m Running BKZ-35 [0m [0m Running BKZ-44 [0m [0m Running BKZ-9 [0m [0m Running BKZ-10 [0m [0m Running BKZ-11 [0m [0m Running BKZ-36 [0m [0m Running BKZ-3 [0m [0m Running BKZ-12 [0m [0m Running BKZ-4 [0m [0m Running BKZ-45 [0m [0m Running BKZ-13 [0m [0m Running BKZ-5 [0m [0m Running BKZ-37 [0m [0m Running BKZ-14 [0m [0m Running BKZ-6 [0m [0m Running BKZ-7 [0m [0m Running BKZ-15 [0m [0m Running BKZ-8 [0m [0m Running BKZ-16 [0m [0m Running BKZ-9 [0m [0m Running BKZ-38 [0m [0m Running BKZ-17 [0m [0m Running BKZ-10 [0m [0m Running BKZ-18 [0m [0m Running BKZ-11 [0m [0m Running BKZ-19 [0m [0m Running BKZ-12 [0m [0m Running BKZ-39 [0m [0m Running BKZ-2 [0m [0m Running BKZ-13 [0m [0m Running BKZ-20 [0m [0m Running BKZ-14 [0m [0m Running BKZ-21 [0m [0m Running BKZ-40 [0m [0m Running BKZ-15 [0m [0m Running BKZ-16 [0m [0m Running BKZ-46 [0m [0m Running BKZ-17 [0m [0m Running BKZ-41 [0m [0m Running BKZ-18 [0m [0m Running BKZ-19 [0m [0m Running BKZ-20 [0m [0m Running BKZ-42 [0m [0m Running BKZ-3 [0m [0m Running BKZ-21 [0m [0m Running BKZ-4 [0m [0m Running BKZ-22 [0m [0m Running BKZ-5 [0m [0m Running BKZ-43 [0m [0m Running BKZ-23 [0m [0m Running BKZ-6 [0m [0m Running BKZ-24 [0m [0m Running BKZ-7 [0m [0m Running BKZ-8 [0m [0m Running BKZ-25 [0m [0m Running BKZ-44 [0m [0m Running BKZ-9 [0m [0m Running BKZ-26 [0m [0m Running BKZ-47 [0m [0m Running BKZ-10 [0m [0m Running BKZ-27 [0m [0m Running BKZ-11 [0m [0m Running BKZ-45 [0m [0m Running BKZ-12 [0m [0m Running BKZ-28 [0m [0m Running BKZ-13 [0m [0m Running BKZ-29 [0m [0m Running BKZ-14 [0m [0m Running BKZ-15 [0m [0m Running BKZ-30 [0m [0m Running BKZ-16 [0m [0m Running BKZ-31 [0m [0m Running BKZ-17 [0m [0m Running BKZ-46 [0m [0m Running BKZ-32 [0m [0m Running BKZ-18 [0m [0m Running BKZ-19 [0m [0m Running BKZ-33 [0m [0m Running BKZ-34 [0m [0m Running BKZ-35 [0m [0m Running BKZ-48 [0m [0m Running BKZ-47 [0m [0m Running BKZ-36 [0m [0m Running BKZ-37 [0m [0m Running BKZ-38 [0m [0m Running BKZ-39 [0m [0m Running BKZ-40 [0m [0m Running BKZ-41 [0m [0m Running BKZ-48 [0m [0m Running BKZ-49 [0m [0m Running BKZ-42 [0m [0m Running BKZ-43 [0m [0m Running BKZ-44 [0m [0m Running BKZ-45 [0m [0m Running BKZ-49 [0m [0m Running BKZ-46 [0m [0m Running BKZ-50 [0m [0m Running BKZ-47 [0m [0m Running BKZ-50 [0m [0m Running BKZ-48 [0m [0m Running BKZ-51 [0m [0m Running BKZ-51 [0m [0m Running BKZ-49 [0m [0m Running BKZ-52 [0m [1;37;42m Success ! [0m
+[0m  [0m
+[4;37m      Build EBDD from LWE      [0m
+[1;33m n=128 	 m=128 	 q=3329 [0m
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012119 	 β=49.40  [0m
+[0m  [0m
+[0m Running BKZ-50 [0m β= 2,	 pr=5.9861e-44, 	 cum-pr=5.9861e-44 	 rem-pr=1.0000e+00
+β= 3,	 pr=1.3339e-40, 	 cum-pr=1.3345e-40 	 rem-pr=1.0000e+00
+β= 4,	 pr=7.1719e-39, 	 cum-pr=7.3054e-39 	 rem-pr=1.0000e+00
+β= 5,	 pr=9.9782e-38, 	 cum-pr=1.0709e-37 	 rem-pr=1.0000e+00
+β= 6,	 pr=7.1767e-37, 	 cum-pr=8.2476e-37 	 rem-pr=1.0000e+00
+β= 7,	 pr=3.5142e-36, 	 cum-pr=4.3390e-36 	 rem-pr=1.0000e+00
+β= 8,	 pr=1.3859e-35, 	 cum-pr=1.8198e-35 	 rem-pr=1.0000e+00
+β= 9,	 pr=4.8161e-35, 	 cum-pr=6.6359e-35 	 rem-pr=1.0000e+00
+β= 10,	 pr=1.5391e-34, 	 cum-pr=2.2027e-34 	 rem-pr=1.0000e+00
+β= 11,	 pr=4.8422e-34, 	 cum-pr=7.0449e-34 	 rem-pr=1.0000e+00
+β= 12,	 pr=1.5680e-33, 	 cum-pr=2.2725e-33 	 rem-pr=1.0000e+00
+β= 13,	 pr=5.2008e-33, 	 cum-pr=7.4733e-33 	 rem-pr=1.0000e+00
+β= 14,	 pr=1.8554e-32, 	 cum-pr=2.6028e-32 	 rem-pr=1.0000e+00
+β= 15,	 pr=7.4084e-32, 	 cum-pr=1.0011e-31 	 rem-pr=1.0000e+00
+β= 16,	 pr=3.5144e-31, 	 cum-pr=4.5156e-31 	 rem-pr=1.0000e+00
+β= 17,	 pr=1.8098e-30, 	 cum-pr=2.2613e-30 	 rem-pr=1.0000e+00
+β= 18,	 pr=1.0442e-29, 	 cum-pr=1.2703e-29 	 rem-pr=1.0000e+00
+β= 19,	 pr=7.8490e-29, 	 cum-pr=9.1193e-29 	 rem-pr=1.0000e+00
+β= 20,	 pr=6.4021e-28, 	 cum-pr=7.3140e-28 	 rem-pr=1.0000e+00
+β= 21,	 pr=5.3173e-27, 	 cum-pr=6.0487e-27 	 rem-pr=1.0000e+00
+β= 22,	 pr=4.2968e-26, 	 cum-pr=4.9017e-26 	 rem-pr=1.0000e+00
+β= 23,	 pr=5.2357e-25, 	 cum-pr=5.7259e-25 	 rem-pr=1.0000e+00
+β= 24,	 pr=7.7057e-24, 	 cum-pr=8.2783e-24 	 rem-pr=1.0000e+00
+β= 25,	 pr=1.1905e-22, 	 cum-pr=1.2732e-22 	 rem-pr=1.0000e+00
+β= 26,	 pr=1.6830e-21, 	 cum-pr=1.8104e-21 	 rem-pr=1.0000e+00
+β= 27,	 pr=1.8692e-20, 	 cum-pr=2.0503e-20 	 rem-pr=1.0000e+00
+β= 28,	 pr=1.9502e-19, 	 cum-pr=2.1553e-19 	 rem-pr=1.0000e+00
+β= 29,	 pr=2.1878e-18, 	 cum-pr=2.4034e-18 	 rem-pr=1.0000e+00
+β= 30,	 pr=2.7542e-17, 	 cum-pr=2.9945e-17 	 rem-pr=1.0000e+00
+β= 31,	 pr=4.0960e-16, 	 cum-pr=4.3954e-16 	 rem-pr=1.0000e+00
+β= 32,	 pr=6.6776e-15, 	 cum-pr=7.1171e-15 	 rem-pr=1.0000e+00
+β= 33,	 pr=8.4669e-14, 	 cum-pr=9.1786e-14 	 rem-pr=1.0000e+00
+β= 34,	 pr=1.1201e-12, 	 cum-pr=1.2119e-12 	 rem-pr=1.0000e+00
+β= 35,	 pr=1.1084e-11, 	 cum-pr=1.2296e-11 	 rem-pr=1.0000e+00
+β= 36,	 pr=9.5031e-11, 	 cum-pr=1.0733e-10 	 rem-pr=1.0000e+00
+β= 37,	 pr=6.5653e-10, 	 cum-pr=7.6386e-10 	 rem-pr=1.0000e+00
+β= 38,	 pr=3.8364e-09, 	 cum-pr=4.6003e-09 	 rem-pr=1.0000e+00
+β= 39,	 pr=2.1832e-08, 	 cum-pr=2.6433e-08 	 rem-pr=1.0000e+00
+β= 40,	 pr=1.0086e-07, 	 cum-pr=1.2729e-07 	 rem-pr=1.0000e+00
+β= 41,	 pr=4.5789e-07, 	 cum-pr=5.8518e-07 	 rem-pr=1.0000e+00
+β= 42,	 pr=1.9505e-06, 	 cum-pr=2.5357e-06 	 rem-pr=1.0000e+00
+β= 43,	 pr=1.0677e-05, 	 cum-pr=1.3212e-05 	 rem-pr=9.9999e-01
+β= 44,	 pr=4.3851e-05, 	 cum-pr=5.7062e-05 	 rem-pr=9.9994e-01
+β= 45,	 pr=1.7188e-04, 	 cum-pr=2.2893e-04 	 rem-pr=9.9977e-01
+β= 46,	 pr=7.7774e-04, 	 cum-pr=1.0065e-03 	 rem-pr=9.9899e-01
+β= 47,	 pr=2.5662e-03, 	 cum-pr=3.5701e-03 	 rem-pr=9.9643e-01
+β= 48,	 pr=7.4510e-03, 	 cum-pr=1.0995e-02 	 rem-pr=9.8901e-01
+β= 49,	 pr=1.9066e-02, 	 cum-pr=2.9851e-02 	 rem-pr=9.7015e-01
+β= 50,	 pr=4.3193e-02, 	 cum-pr=7.1755e-02 	 rem-pr=9.2825e-01
+β= 51,	 pr=8.7109e-02, 	 cum-pr=1.5261e-01 	 rem-pr=8.4739e-01
+β= 52,	 pr=1.5740e-01, 	 cum-pr=2.8599e-01 	 rem-pr=7.1401e-01
+β= 53,	 pr=2.5665e-01, 	 cum-pr=4.6924e-01 	 rem-pr=5.3076e-01
+β= 54,	 pr=3.8063e-01, 	 cum-pr=6.7127e-01 	 rem-pr=3.2873e-01
+β= 55,	 pr=5.1794e-01, 	 cum-pr=8.4153e-01 	 rem-pr=1.5847e-01
+β= 56,	 pr=6.5299e-01, 	 cum-pr=9.4501e-01 	 rem-pr=5.4991e-02
+β= 57,	 pr=7.7097e-01, 	 cum-pr=9.8741e-01 	 rem-pr=1.2594e-02
+β= 58,	 pr=8.6251e-01, 	 cum-pr=9.9827e-01 	 rem-pr=1.7317e-03
+β= 59,	 pr=9.2547e-01, 	 cum-pr=9.9987e-01 	 rem-pr=1.2905e-04
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=53.53  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+[0m Running BKZ-53 [0m [0m Running BKZ-51 [0m [0m Running BKZ-2 [0m [0m Running BKZ-3 [0m [0m Running BKZ-4 [0m [0m Running BKZ-5 [0m [0m Running BKZ-6 [0m [0m Running BKZ-7 [0m [0m Running BKZ-8 [0m [0m Running BKZ-9 [0m [0m Running BKZ-10 [0m [0m Running BKZ-52 [0m [0m Running BKZ-11 [0m [0m Running BKZ-54 [0m [0m Running BKZ-12 [0m [0m Running BKZ-13 [0m [0m Running BKZ-14 [0m [0m Running BKZ-15 [0m [0m Running BKZ-16 [0m [0m Running BKZ-17 [0m [0m Running BKZ-18 [0m [0m Running BKZ-19 [0m [0m Running BKZ-20 [0m [0m Running BKZ-21 [0m [0m Running BKZ-22 [0m [0m Running BKZ-23 [0m [0m Running BKZ-24 [0m [0m Running BKZ-25 [0m [0m Running BKZ-26 [0m [0m Running BKZ-27 [0m [0m Running BKZ-28 [0m [0m Running BKZ-29 [0m [0m Running BKZ-53 [0m [0m Running BKZ-30 [0m [0m Running BKZ-31 [0m [0m Running BKZ-32 [0m [0m Running BKZ-33 [0m [0m Running BKZ-55 [0m [0m Running BKZ-34 [0m [0m Running BKZ-35 [0m [0m Running BKZ-36 [0m [0m Running BKZ-37 [0m [0m Running BKZ-38 [0m [0m Running BKZ-39 [0m [0m Running BKZ-40 [0m [0m Running BKZ-54 [0m [0m Running BKZ-41 [0m [0m Running BKZ-56 [0m [0m Running BKZ-55 [0m [0m Running BKZ-57 [0m [0m Running BKZ-56 [0m [0m Running BKZ-57 [0m [1;37;42m Success ! [0m
+[0m  [0m
+[4;37m      Build EBDD from LWE      [0m
+[1;33m n=128 	 m=128 	 q=3329 [0m
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 δ=1.012119 	 β=49.40  [0m
+[0m  [0m
+β= 2,	 pr=5.9861e-44, 	 cum-pr=5.9861e-44 	 rem-pr=1.0000e+00
+β= 3,	 pr=1.3339e-40, 	 cum-pr=1.3345e-40 	 rem-pr=1.0000e+00
+β= 4,	 pr=7.1719e-39, 	 cum-pr=7.3054e-39 	 rem-pr=1.0000e+00
+β= 5,	 pr=9.9782e-38, 	 cum-pr=1.0709e-37 	 rem-pr=1.0000e+00
+β= 6,	 pr=7.1767e-37, 	 cum-pr=8.2476e-37 	 rem-pr=1.0000e+00
+β= 7,	 pr=3.5142e-36, 	 cum-pr=4.3390e-36 	 rem-pr=1.0000e+00
+β= 8,	 pr=1.3859e-35, 	 cum-pr=1.8198e-35 	 rem-pr=1.0000e+00
+β= 9,	 pr=4.8161e-35, 	 cum-pr=6.6359e-35 	 rem-pr=1.0000e+00
+β= 10,	 pr=1.5391e-34, 	 cum-pr=2.2027e-34 	 rem-pr=1.0000e+00
+β= 11,	 pr=4.8422e-34, 	 cum-pr=7.0449e-34 	 rem-pr=1.0000e+00
+β= 12,	 pr=1.5680e-33, 	 cum-pr=2.2725e-33 	 rem-pr=1.0000e+00
+β= 13,	 pr=5.2008e-33, 	 cum-pr=7.4733e-33 	 rem-pr=1.0000e+00
+β= 14,	 pr=1.8554e-32, 	 cum-pr=2.6028e-32 	 rem-pr=1.0000e+00
+β= 15,	 pr=7.4084e-32, 	 cum-pr=1.0011e-31 	 rem-pr=1.0000e+00
+β= 16,	 pr=3.5144e-31, 	 cum-pr=4.5156e-31 	 rem-pr=1.0000e+00
+β= 17,	 pr=1.8098e-30, 	 cum-pr=2.2613e-30 	 rem-pr=1.0000e+00
+β= 18,	 pr=1.0442e-29, 	 cum-pr=1.2703e-29 	 rem-pr=1.0000e+00
+β= 19,	 pr=7.8490e-29, 	 cum-pr=9.1193e-29 	 rem-pr=1.0000e+00
+β= 20,	 pr=6.4021e-28, 	 cum-pr=7.3140e-28 	 rem-pr=1.0000e+00
+β= 21,	 pr=5.3173e-27, 	 cum-pr=6.0487e-27 	 rem-pr=1.0000e+00
+β= 22,	 pr=4.2968e-26, 	 cum-pr=4.9017e-26 	 rem-pr=1.0000e+00
+β= 23,	 pr=5.2357e-25, 	 cum-pr=5.7259e-25 	 rem-pr=1.0000e+00
+β= 24,	 pr=7.7057e-24, 	 cum-pr=8.2783e-24 	 rem-pr=1.0000e+00
+β= 25,	 pr=1.1905e-22, 	 cum-pr=1.2732e-22 	 rem-pr=1.0000e+00
+β= 26,	 pr=1.6830e-21, 	 cum-pr=1.8104e-21 	 rem-pr=1.0000e+00
+β= 27,	 pr=1.8692e-20, 	 cum-pr=2.0503e-20 	 rem-pr=1.0000e+00
+β= 28,	 pr=1.9502e-19, 	 cum-pr=2.1553e-19 	 rem-pr=1.0000e+00
+β= 29,	 pr=2.1878e-18, 	 cum-pr=2.4034e-18 	 rem-pr=1.0000e+00
+β= 30,	 pr=2.7542e-17, 	 cum-pr=2.9945e-17 	 rem-pr=1.0000e+00
+β= 31,	 pr=4.0960e-16, 	 cum-pr=4.3954e-16 	 rem-pr=1.0000e+00
+β= 32,	 pr=6.6776e-15, 	 cum-pr=7.1171e-15 	 rem-pr=1.0000e+00
+β= 33,	 pr=8.4669e-14, 	 cum-pr=9.1786e-14 	 rem-pr=1.0000e+00
+β= 34,	 pr=1.1201e-12, 	 cum-pr=1.2119e-12 	 rem-pr=1.0000e+00
+β= 35,	 pr=1.1084e-11, 	 cum-pr=1.2296e-11 	 rem-pr=1.0000e+00
+β= 36,	 pr=9.5031e-11, 	 cum-pr=1.0733e-10 	 rem-pr=1.0000e+00
+β= 37,	 pr=6.5653e-10, 	 cum-pr=7.6386e-10 	 rem-pr=1.0000e+00
+β= 38,	 pr=3.8364e-09, 	 cum-pr=4.6003e-09 	 rem-pr=1.0000e+00
+β= 39,	 pr=2.1832e-08, 	 cum-pr=2.6433e-08 	 rem-pr=1.0000e+00
+β= 40,	 pr=1.0086e-07, 	 cum-pr=1.2729e-07 	 rem-pr=1.0000e+00
+β= 41,	 pr=4.5789e-07, 	 cum-pr=5.8518e-07 	 rem-pr=1.0000e+00
+β= 42,	 pr=1.9505e-06, 	 cum-pr=2.5357e-06 	 rem-pr=1.0000e+00
+β= 43,	 pr=1.0677e-05, 	 cum-pr=1.3212e-05 	 rem-pr=9.9999e-01
+β= 44,	 pr=4.3851e-05, 	 cum-pr=5.7062e-05 	 rem-pr=9.9994e-01
+β= 45,	 pr=1.7188e-04, 	 cum-pr=2.2893e-04 	 rem-pr=9.9977e-01
+β= 46,	 pr=7.7774e-04, 	 cum-pr=1.0065e-03 	 rem-pr=9.9899e-01
+β= 47,	 pr=2.5662e-03, 	 cum-pr=3.5701e-03 	 rem-pr=9.9643e-01
+β= 48,	 pr=7.4510e-03, 	 cum-pr=1.0995e-02 	 rem-pr=9.8901e-01
+β= 49,	 pr=1.9066e-02, 	 cum-pr=2.9851e-02 	 rem-pr=9.7015e-01
+β= 50,	 pr=4.3193e-02, 	 cum-pr=7.1755e-02 	 rem-pr=9.2825e-01
+β= 51,	 pr=8.7109e-02, 	 cum-pr=1.5261e-01 	 rem-pr=8.4739e-01
+β= 52,	 pr=1.5740e-01, 	 cum-pr=2.8599e-01 	 rem-pr=7.1401e-01
+β= 53,	 pr=2.5665e-01, 	 cum-pr=4.6924e-01 	 rem-pr=5.3076e-01
+β= 54,	 pr=3.8063e-01, 	 cum-pr=6.7127e-01 	 rem-pr=3.2873e-01
+β= 55,	 pr=5.1794e-01, 	 cum-pr=8.4153e-01 	 rem-pr=1.5847e-01
+β= 56,	 pr=6.5299e-01, 	 cum-pr=9.4501e-01 	 rem-pr=5.4991e-02
+β= 57,	 pr=7.7097e-01, 	 cum-pr=9.8741e-01 	 rem-pr=1.2594e-02
+β= 58,	 pr=8.6251e-01, 	 cum-pr=9.9827e-01 	 rem-pr=1.7317e-03
+β= 59,	 pr=9.2547e-01, 	 cum-pr=9.9987e-01 	 rem-pr=1.2905e-04
+[4;37m       Attack Estimation      [0m
+[1;33m dim=256 	 	 	 β=53.53  [0m
+[0m  [0m
+[4;37m       Running the Attack      [0m
+[0m Running BKZ-2 [0m [0m Running BKZ-3 [0m [0m Running BKZ-4 [0m [0m Running BKZ-5 [0m [0m Running BKZ-58 [0m [0m Running BKZ-6 [0m [0m Running BKZ-7 [0m [0m Running BKZ-8 [0m [0m Running BKZ-9 [0m [0m Running BKZ-10 [0m [0m Running BKZ-11 [0m [0m Running BKZ-12 [0m [0m Running BKZ-13 [0m [0m Running BKZ-14 [0m [0m Running BKZ-15 [0m [0m Running BKZ-16 [0m [0m Running BKZ-17 [0m [0m Running BKZ-18 [0m [0m Running BKZ-19 [0m [0m Running BKZ-20 [0m [0m Running BKZ-21 [0m [0m Running BKZ-22 [0m [0m Running BKZ-23 [0m [0m Running BKZ-24 [0m [0m Running BKZ-25 [0m [0m Running BKZ-26 [0m [0m Running BKZ-27 [0m [0m Running BKZ-28 [0m [0m Running BKZ-29 [0m [0m Running BKZ-30 [0m [0m Running BKZ-31 [0m [0m Running BKZ-32 [0m [0m Running BKZ-33 [0m [0m Running BKZ-34 [0m [0m Running BKZ-35 [0m [0m Running BKZ-36 [0m [0m Running BKZ-37 [0m [0m Running BKZ-38 [0m [0m Running BKZ-39 [0m [0m Running BKZ-40 [0m [0m Running BKZ-41 [0m [0m Running BKZ-42 [0m [1;37;42m Success ! [0m
+[0m  [0m
+[0m Running BKZ-43 [0m [0m Running BKZ-44 [0m [0m Running BKZ-45 [0m [0m Running BKZ-46 [0m [0m Running BKZ-47 [0m [0m Running BKZ-48 [0m [0m Running BKZ-49 [0m [0m Running BKZ-50 [0m [1;37;42m Success ! [0m
+[0m  [0m
+error
+error
+error
