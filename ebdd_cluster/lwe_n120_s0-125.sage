@@ -4,6 +4,7 @@ load('../framework/utils.sage')
 import pandas as pd
 import time
 from numpy.random import seed as np_seed
+from numpy.random import random_integers as np_randint
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
@@ -47,7 +48,8 @@ def one_experiment(seed):
     # Custom Embedding
     b = matrix(b).apply_map(recenter)
     A = matrix(A).apply_map(recenter)
-    v = matrix([randint(int(-q/2), int(q/2)) for i in range(n+m)])
+    v = matrix(np_randint(int(-q/2), int(q/2), size=(n+m,)))
+    # v = matrix([randint(int(-q/2), int(q/2)) for i in range(n+m)])
 
     c = []
     #integrating hints
