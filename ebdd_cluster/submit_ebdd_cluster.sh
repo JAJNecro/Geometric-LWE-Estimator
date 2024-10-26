@@ -48,7 +48,7 @@ cp -r ~/geometricLWE ${SCRATCH_DIRECTORY}
 
 # Run code
 
-TO_RUN=lwe_n128_s75-200
+TO_RUN=lwe_n96_s0-125
 
 OUTFILE=${TO_RUN}-${SLURM_JOBID}.log
 RESULTS=${TO_RUN}-${SLURM_JOBID}.csv

@@ -1,0 +1,7 @@
+cp: cannot stat '/nfshomes/adnanben/geometricLWE': No such file or directory
+/var/spool/slurm/slurmd.spool/job3143853/slurm_script: line 54: cd: geometricLWE/ebdd_cluster: No such file or directory
+  WARNING: The scripts pip, pip3 and pip3.11 are installed in '/nfshomes/adnanben/.sage/local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+python3: can't open file '/scratch0/adnanben/3143853/ebdd_cluster.sage.py': [Errno 2] No such file or directory
+mv: cannot stat 'ebdd_cluster.csv': No such file or directory
+cp: cannot stat 'ebdd_cluster-3143853.csv': No such file or directory
