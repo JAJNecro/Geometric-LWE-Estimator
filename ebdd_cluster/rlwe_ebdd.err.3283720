@@ -1,0 +1,11 @@
+ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory: '/nfshomes/adnanben/.sage/local/bin/'
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/nfshomes/adnanben/.sage/local/lib/python3.11/site-packages/pip/__main__.py", line 22, in <module>
+    from pip._internal.cli.main import main as _main
+  File "/nfshomes/adnanben/.sage/local/lib/python3.11/site-packages/pip/_internal/__init__.py", line 3, in <module>
+    from pip._internal.utils import _log
+ModuleNotFoundError: No module named 'pip._internal.utils'
+0
