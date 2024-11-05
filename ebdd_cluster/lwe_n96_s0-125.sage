@@ -21,7 +21,7 @@ def one_experiment(seed):
     np_seed(seed=seed)
 
     start = time.time()
-    sigma = sqrt(3/2)
+    sigma = sqrt(8)
     sigma_c = []
     mu = concatenate([0] * (m+n), [])
     d = m + n
