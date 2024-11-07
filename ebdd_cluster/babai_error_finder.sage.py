@@ -4,15 +4,16 @@
 from sage.all_cmdline import *   # import sage library
 
 _sage_const_1 = Integer(1); _sage_const_0 = Integer(0); _sage_const_3329 = Integer(3329); _sage_const_120 = Integer(120); _sage_const_3 = Integer(3); _sage_const_2 = Integer(2); _sage_const_12 = Integer(12); _sage_const_50 = Integer(50); _sage_const_80 = Integer(80); _sage_const_34 = Integer(34)
-load('../framework/LWE.sage')
-load('../framework/utils.sage')
-
 import pandas as pd
 import time
+from random import seed as python_seed
 from numpy.random import seed as np_seed
 from numpy.random import randint as np_randint
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
+
+load('../framework/LWE.sage')
+load('../framework/utils.sage')
 
 nb_tests = _sage_const_1 
 ring = _sage_const_0 
@@ -21,9 +22,12 @@ q = _sage_const_3329
 n = _sage_const_120 
 m = n
 
+#sys.stdout.reconfigure(line_buffering=True)
+
 def one_experiment(seed):
 
     set_random_seed(seed)
+    python_seed(seed)
     assert(initial_seed() == seed)
     np_seed(seed=seed)
 
@@ -51,6 +55,7 @@ def one_experiment(seed):
 
     b, s, A, e_vec = (lwe_instance.b, lwe_instance.s, lwe_instance.A, lwe_instance.e_vec)
 
+    print("Before A: ", A)
     # Custom Embedding
     b = matrix(b).apply_map(recenter)
     A = matrix(A).apply_map(recenter)
@@ -58,6 +63,8 @@ def one_experiment(seed):
     v = matrix(v) # Back to a matrix
     # v = matrix([randint(int(-q/2), int(q/2)) for i in range(n+m)])
 
+    print("After A: ", A)
+    print("v: ", v)
     c = []
     #integrating hints
     print(s)

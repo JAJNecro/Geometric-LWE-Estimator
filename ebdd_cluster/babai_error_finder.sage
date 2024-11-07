@@ -1,12 +1,13 @@
-load('../framework/LWE.sage')
-load('../framework/utils.sage')
-
 import pandas as pd
 import time
+from random import seed as python_seed
 from numpy.random import seed as np_seed
 from numpy.random import randint as np_randint
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
+
+load('../framework/LWE.sage')
+load('../framework/utils.sage')
 
 nb_tests = 1
 ring = 0
@@ -15,11 +16,12 @@ q = 3329
 n = 120
 m = n
 
-sys.stdout.reconfigure(line_buffering=True)
+#sys.stdout.reconfigure(line_buffering=True)
 
 def one_experiment(seed):
 
     set_random_seed(seed)
+    python_seed(seed)
     assert(initial_seed() == seed)
     np_seed(seed=seed)
 
@@ -47,16 +49,16 @@ def one_experiment(seed):
 
     b, s, A, e_vec = (lwe_instance.b, lwe_instance.s, lwe_instance.A, lwe_instance.e_vec)
 
+    print("Before A: ", A)
     # Custom Embedding
     b = matrix(b).apply_map(recenter)
     A = matrix(A).apply_map(recenter)
     v = np_randint(int(-q/2), int(q/2), n+m).tolist() # Converts to a numpy ndarray and then to a python list
     v = matrix(v) # Back to a matrix
     # v = matrix([randint(int(-q/2), int(q/2)) for i in range(n+m)])
-    print("A: ", A)
-    
-    print("v: ", v)
 
+    print("After A: ", A)
+    print("v: ", v)
     c = []
     #integrating hints
     print(s)
