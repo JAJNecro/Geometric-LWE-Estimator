@@ -48,7 +48,7 @@ cp -r ~/geometricLWE ${SCRATCH_DIRECTORY}
 
 # Run code
 
-TO_RUN=lwe_n88_s0-125
+TO_RUN=babai_error_finder
 
 OUTFILE=${TO_RUN}-${SLURM_JOBID}.log
 RESULTS=${TO_RUN}-${SLURM_JOBID}.csv

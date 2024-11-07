@@ -15,6 +15,8 @@ q = 3329
 n = 120
 m = n
 
+sys.stdout.reconfigure(line_buffering=True)
+
 def one_experiment(seed):
 
     set_random_seed(seed)
@@ -51,6 +53,9 @@ def one_experiment(seed):
     v = np_randint(int(-q/2), int(q/2), n+m).tolist() # Converts to a numpy ndarray and then to a python list
     v = matrix(v) # Back to a matrix
     # v = matrix([randint(int(-q/2), int(q/2)) for i in range(n+m)])
+    print("A: ", A)
+    
+    print("v: ", v)
 
     c = []
     #integrating hints
