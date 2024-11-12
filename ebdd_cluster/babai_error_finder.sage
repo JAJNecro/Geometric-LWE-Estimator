@@ -21,7 +21,7 @@ m = n
 def one_experiment(seed):
 
     set_random_seed(seed)
-    python_seed(seed)
+    # python_seed(seed)
     assert(initial_seed() == seed)
     np_seed(seed=seed)
 
