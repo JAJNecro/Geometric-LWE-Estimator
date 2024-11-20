@@ -9,7 +9,7 @@ from multiprocessing import cpu_count
 load('../framework/LWE.sage')
 load('../framework/utils.sage')
 
-nb_tests = 100
+nb_tests = 1
 ring = 0
 
 q = 3329
@@ -154,7 +154,7 @@ def run_experiment(num_experiments):
     seeds = []
 
     queue = []
-    seedgen = 0
+    seedgen = 6
     with ProcessPoolExecutor(max_workers=cpu_count()) as pool:
         try: 
             for i in range(num_experiments):

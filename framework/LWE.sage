@@ -1,4 +1,4 @@
-from random import randint
+
 from sage.rings.generic import ProductTree
 
 load("../framework/LWE_generic.sage")
