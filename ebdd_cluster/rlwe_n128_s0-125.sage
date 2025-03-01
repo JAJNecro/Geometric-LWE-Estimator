@@ -7,11 +7,11 @@ from numpy.random import seed as np_seed
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from multiprocessing import cpu_count
 
-nb_tests = 1
+nb_tests = 125
 ring = 1
 
-q = 7681
-n = 256
+q = 3329
+n = 128
 m = n
 
 def one_experiment(seed):
@@ -21,7 +21,7 @@ def one_experiment(seed):
     np_seed(seed=seed)
 
     start = time.time()
-    sigma = .01
+    sigma = sqrt(3/2)
     sigma_c = []
     mu = concatenate([0] * (m+n), [])
     d = m + n
@@ -73,6 +73,7 @@ def one_experiment(seed):
     ebdd_norm = (norm)
     our_ebdd.estimate_attack()
     ebdd_predicted_beta_normal = (our_ebdd.beta)
+    our_ebdd.estimate_attack(probabilistic = True)
     ebdd_predicted_beta_prob = (our_ebdd.beta)
 
     try:
@@ -103,6 +104,7 @@ def one_experiment(seed):
     kannan_norm = (float(norm)) 
     ebdd_with_lwe.estimate_attack()
     kannan_predicted_beta_normal = (ebdd_with_lwe.beta)
+    ebdd_with_lwe.estimate_attack(probabilistic = True)
     kannan_predicted_beta_prob = (ebdd_with_lwe.beta)
 
     # run even with error
