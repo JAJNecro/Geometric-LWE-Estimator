@@ -28,7 +28,7 @@ def one_experiment(seed):
 
     #Setting up Sigma
     for i in range(0, n):
-        sigma_c.append(((sigma / q) ** 2) + (sigma**2 * n -1)/12)
+        sigma_c.append(((sigma / q) ** 2) + ((q**2 - 1)*(sigma**2 * n +1)/(12*q**2)))
     Sigma = block_matrix([[diagonal_matrix(sigma_c), zero_matrix(n)],
                           [zero_matrix(n),(sigma ** 2) * identity_matrix(n)]])
     Sigma = Sigma * d #scale dimension (may have to remove)
